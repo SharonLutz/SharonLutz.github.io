@@ -27,8 +27,11 @@ Institute for Behavioral Genetics, University of Colorado, Boulder
 
 ### Education
 2010: PhD in Biostatistics, Harvard University
+
 2008: MS in Biostatistics, Harvard University
+
 2006: MA in Mathematics, University of Colorado, Boulder
+
 2006: BA in Mathematics, University of Colorado, Boulder
 
 #### Publications
