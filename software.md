@@ -1,5 +1,7 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
+## Software
+
 My GitHub page can be found [here.](https://github.com/SharonLutz/software)
 
 ### Pleiotropy
