@@ -1,5 +1,7 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
+## Research
+
 ### Academic/ Research Positions
 Assistant Professor: July 2011-present
 Department of Biostatistics and Informatics, University of Colorado, Colorado School of Public Health (CSPH)
