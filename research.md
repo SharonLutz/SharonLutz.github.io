@@ -34,6 +34,6 @@ Institute for Behavioral Genetics, University of Colorado, Boulder
 
 2006: BA in Mathematics, University of Colorado, Boulder
 
-#### Publications
+### Publications
 
 A current list of publications can be found [here.](https://www.researchgate.net/profile/Sharon_Lutz2)
