@@ -1,5 +1,7 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
+## Background
+
 Sharon Marie Lutz  
 Assistant Professor of Biostatistics and Informatics  
 University of Colorado, Anschutz Medical Campus  
