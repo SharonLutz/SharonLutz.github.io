@@ -20,24 +20,24 @@ sharon dot lutz @ ucdenver dot edu
 2006: BA in Mathematics, University of Colorado, Boulder
 
 ### Academic/ Research Positions
-Assistant Professor: July 2011-present
+Assistant Professor: July 2011-present<br>
 Department of Biostatistics and Informatics, University of Colorado, Colorado School of Public Health (CSPH)
 
-Concentration Director for the Masters in Public Health in Applied Biostatistics Program: July 2013-May 2016
+Concentration Director for the Masters in Public Health in Applied Biostatistics Program: July 2013-May 2016<br>
 Department of Biostatistics and Informatics, University of Colorado, CSPH
 
-Senior Research Instructor: December 2010- July 2011
+Senior Research Instructor: December 2010- July 2011<br>
 Department of Biostatistics and Informatics, University of Colorado, CSPH
 
 Joint Postdoctoral Research Fellow: March 2010- December 2010
-Institute for Genomic Mathematics, University of Bonn, Germany
+Institute for Genomic Mathematics, University of Bonn, Germany<br>
 Department of Biostatistics, Harvard University
 
-Graduate Research Assistant: May 2007- March 2010
+Graduate Research Assistant: May 2007- March 2010<br>
 Department of Biostatistics, Harvard University 
 
-Graduate Teaching Assistant: August 2007- August 2009
+Graduate Teaching Assistant: August 2007- August 2009<br>
 Department of Biostatistics, Harvard University 
 
-Graduate Research Assistant: May 2007- August 2007
+Graduate Research Assistant: May 2007- August 2007<br>
 Institute for Behavioral Genetics, University of Colorado, Boulder
