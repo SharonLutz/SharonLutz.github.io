@@ -3,12 +3,18 @@
 ## Background
 
 Sharon Marie Lutz
+
 Assistant Professor of Biostatistics and Informatics
+
 University of Colorado, Anschutz Medical Campus
+
 13001 E. 17th Place, B119
+
 Bldg. 500, W3128
+
 Aurora, CO 80045
-sharon.lutz@ucdenver.edu
+
+<sharon.lutz@ucdenver.edu>
 
 ### Research Interests
 I am interested to using statistics to understand the genetic and genomic mechanisms of diseases. My methodological research has focused on:
