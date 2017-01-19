@@ -7,7 +7,7 @@ Assistant Professor of Biostatistics and Informatics
 University of Colorado, Anschutz Medical Campus  
 13001 E. 17th Place, B119  
 Bldg. 500, W3128  
-Aurora, CO 80045  
+Aurora, CO 80045 <br>
 <sharon.lutz@ucdenver.edu>
 
 ### Research Interests
