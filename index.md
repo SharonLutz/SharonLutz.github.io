@@ -29,7 +29,7 @@ Department of Biostatistics and Informatics, University of Colorado, CSPH
 Senior Research Instructor: December 2010- July 2011<br>
 Department of Biostatistics and Informatics, University of Colorado, CSPH
 
-Joint Postdoctoral Research Fellow: March 2010- December 2010
+Joint Postdoctoral Research Fellow: March 2010- December 2010<br>
 Institute for Genomic Mathematics, University of Bonn, Germany<br>
 Department of Biostatistics, Harvard University
 
