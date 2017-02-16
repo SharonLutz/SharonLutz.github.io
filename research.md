@@ -11,3 +11,4 @@ My methodological research focuses on statistical genetics and genomics includin
 
 ### Publications
 A current list of publications can be found [here.](https://www.researchgate.net/profile/Sharon_Lutz2)
+
