@@ -16,13 +16,13 @@ sharon dot lutz @ ucdenver dot edu
 
 ### Academic/ Research Positions
 Assistant Professor: July 2011-present<br>
-Department of Biostatistic and Informatics, University of Colorado, Anschutz Medical Campus (AMC)
+Department of Biostatistic and Informatics, University of Colorado, Anschutz
 
 Concentration Director for the MPH in Applied Biostatistics Program: July 2013-May 2016<br>
-Department of Biostatistics and Informatics, University of Colorado, AMC
+Department of Biostatistics and Informatics, University of Colorado, Anschutz
 
 Senior Research Instructor: December 2010- July 2011<br>
-Department of Biostatistics and Informatics, University of Colorado, AMC
+Department of Biostatistics and Informatics, University of Colorado, Anschutz
 
 Joint Postdoctoral Research Fellow: March 2010- December 2010<br>
 Institute for Genomic Mathematics, University of Bonn, Germany<br>
