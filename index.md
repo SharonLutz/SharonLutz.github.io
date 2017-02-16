@@ -1,7 +1,5 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
-## Background
-
 Sharon Marie Lutz  
 Assistant Professor of Biostatistics and Informatics  
 University of Colorado, Anschutz Medical Campus  
@@ -30,10 +28,7 @@ Joint Postdoctoral Research Fellow: March 2010- December 2010<br>
 Institute for Genomic Mathematics, University of Bonn, Germany<br>
 Department of Biostatistics, Harvard University
 
-Graduate Research Assistant: May 2007- March 2010<br>
-Department of Biostatistics, Harvard University 
-
-Graduate Teaching Assistant: August 2007- August 2009<br>
+Graduate Research Assistant and Teaching Assistant: May 2007- March 2010<br>
 Department of Biostatistics, Harvard University 
 
 Graduate Research Assistant: May 2007- August 2007<br>
