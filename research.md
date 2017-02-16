@@ -7,7 +7,7 @@ My methodological research focuses on statistical genetics and genomics includin
 - Mediation Analysis and Causal Inference  
 - Bayesian Hierarchical Models
 - Secondary Phenotype Analysis
-- Genetic Epidemiology of pulmonary disease, coronary calcium, and nicotine dependence  
+- Genetic Epidemiology of Pulmonary Disease, Coronary Calcium, and Nicotine Dependence  
 
 ### Publications
 A current list of publications can be found [here.](https://www.researchgate.net/profile/Sharon_Lutz2)
