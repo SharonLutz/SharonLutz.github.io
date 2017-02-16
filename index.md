@@ -29,7 +29,7 @@ Institute for Genomic Mathematics, University of Bonn, Germany<br>
 Department of Biostatistics, Harvard T.H. Chan School of Public Health
 
 Graduate Research Assistant and Teaching Assistant: May 2007- March 2010<br>
-Department of Biostatistics, Harvard University 
+Department of Biostatistics, Harvard University
 
 Graduate Research Assistant: May 2007- August 2007<br>
 Institute for Behavioral Genetics, University of Colorado, Boulder
