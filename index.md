@@ -1,5 +1,6 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
+### Background
 Sharon Marie Lutz  
 Assistant Professor of Biostatistics and Informatics  
 University of Colorado, Anschutz Medical Campus  
@@ -33,3 +34,4 @@ Department of Biostatistics, Harvard University
 
 Graduate Research Assistant: May 2007- August 2007<br>
 Institute for Behavioral Genetics, University of Colorado, Boulder
+
