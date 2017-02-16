@@ -11,9 +11,9 @@ Aurora, CO 80045 <br>
 sharon dot lutz @ ucdenver dot edu
 
 ### Education
-2010: PhD in Biostatistics, Harvard University
-2008: MS in Biostatistics, Harvard University
-2006: MA in Mathematics, University of Colorado, Boulder
+2010: PhD in Biostatistics, Harvard University<br>
+2008: MS in Biostatistics, Harvard University<br>
+2006: MA in Mathematics, University of Colorado, Boulder<br>
 2006: BA in Mathematics, University of Colorado, Boulder
 
 ### Academic/ Research Positions
