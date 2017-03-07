@@ -1,17 +1,17 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
 ## Software
-My GitHub page can be found [here.](https://github.com/SharonLutz/software)
+My GitHub repository can be found [here.](https://github.com/SharonLutz/software)
 
-**pleiotropy** tests for pleiotropic relationships of genetic regions with multiple phenotypes
+**pleiotropy** is an R package that tests for pleiotropic relationships of genetic regions with multiple phenotypes, which is available on my github software repository.
 
-**Umediation** examines the role of unmeasured confounding in mediation analysis 
+**Umediation** is an R package that examines the role of unmeasured confounding in mediation analysis, which is available on my github software repository. 
 
-**SecondaryPhenotype** adjusts for ascertainment bias when testing for genetic associations of secondary phenotypes
+**SecondaryPhenotype** is an R package that adjusts for ascertainment bias when testing for genetic associations of secondary phenotypes, which is available on my github software repository.
 
-**eQTLpowerRNAseq** runs power calculations for eQTL analysis with no replicates per subject for RNA-seq data 
+**eQTLpowerRNAseq** is an R package that runs power calculations for eQTL analysis with no replicates per subject for RNA-seq data, which is available on my github software repository. 
 
-**NPBAT** performs non-parametric population based association test https://sites.google.com/site/genenpbat/home/npbat
+**NPBAT** performs non-parametric population based association test which can be found [here.](https://sites.google.com/site/genenpbat/home/npbat)
 
 
 
