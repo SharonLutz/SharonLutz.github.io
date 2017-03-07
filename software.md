@@ -11,7 +11,7 @@ My GitHub repository can be found [here.](https://github.com/SharonLutz/software
 
 **eQTLpowerRNAseq** is an R package that runs power calculations for eQTL analysis with no replicates per subject for RNA-seq data, which is available on my github software repository. 
 
-**NPBAT** performs non-parametric population based association test which can be found [here.](https://sites.google.com/site/genenpbat/home/npbat)
+**NPBAT** is an interactive software package for the analysis of population based genetic association studies,  which can be found [here.](https://sites.google.com/site/genenpbat/home/npbat)
 
 
 
