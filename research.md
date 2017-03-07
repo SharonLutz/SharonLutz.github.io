@@ -1,7 +1,7 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
 ### Research
-My methodological research focuses on the following:   
+My research focuses on the following:   
 - Statistical Genetics and Genomics
 - High Dimensional Data  
 - Statistical Computing
