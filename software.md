@@ -1,6 +1,6 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
-## Software
+## Software Development
 **pleiotropy** is an R package that tests for pleiotropic relationships of genetic regions with multiple phenotypes, which can be found [here.](https://github.com/SharonLutz/software)
 
 **Umediation** is an R package that examines the role of unmeasured confounding in mediation analysis, which can be found [here.](https://github.com/SharonLutz/software)
