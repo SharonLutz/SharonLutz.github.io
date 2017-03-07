@@ -1,12 +1,12 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
 ### Research
-My methodological research focuses on statistical genetics and genomics including:   
+My methodological research focuses on the following:   
+- Statistical Genetics and Genomics
 - High Dimensional Data  
 - Statistical Computing
 - Mediation Analysis and Causal Inference  
 - Bayesian Hierarchical Models
-- Secondary Phenotype Analysis
 - Genetic Epidemiology of Pulmonary Disease, Coronary Calcium, and Nicotine Dependence  
 
 ### Peer Reviewed Publications
