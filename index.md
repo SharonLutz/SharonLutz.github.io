@@ -20,7 +20,7 @@ Assistant Professor: July 2011-present<br>
 Department of Biostatistic and Informatics, University of Colorado, Anschutz
 
 Visiting Assistant Professor: September 2016-August 2017<br>
-Department of Biostatistics, Harvard T.H. Chan School of Public Health
+Department of Biostatistics, T.H. Chan School of Public Health, Harvard University
 
 Concentration Director for the MPH in Applied Biostatistics Program: July 2013-May 2016<br>
 Department of Biostatistics and Informatics, University of Colorado, Anschutz
@@ -30,7 +30,7 @@ Department of Biostatistics and Informatics, University of Colorado, Anschutz
 
 Joint Postdoctoral Research Fellow: March 2010- December 2010<br>
 Institute for Genomic Mathematics, University of Bonn, Germany<br>
-Department of Biostatistics, Harvard T.H. Chan School of Public Health
+Department of Biostatistics, Harvard University
 
 Graduate Research Assistant and Teaching Assistant: May 2007- March 2010<br>
 Department of Biostatistics, Harvard University
