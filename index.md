@@ -19,6 +19,9 @@ sharon dot lutz @ ucdenver dot edu
 Assistant Professor: July 2011-present<br>
 Department of Biostatistic and Informatics, University of Colorado, Anschutz
 
+Visiting Assistant Professor: September 2016-August 2017<br>
+Department of Biostatistics, Harvard T.H. Chan School of Public Health
+
 Concentration Director for the MPH in Applied Biostatistics Program: July 2013-May 2016<br>
 Department of Biostatistics and Informatics, University of Colorado, Anschutz
 
