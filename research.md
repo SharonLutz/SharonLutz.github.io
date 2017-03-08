@@ -94,6 +94,5 @@ Drescher K, Getachew Z, **Lutz S**, To L, Lo MW, Villac BF. (2006) Finding Balli
 ### Online Publications
 Cirilo PR, Filho JRAV, **Lutz SM**. (2006) Closed and Exact Differential Forms in Rn. California State University, Northridge (CSUN) Website. https://www.csun.edu/~vcmth02i/Forms.pdf
 
-### Researchgate
-My researchgate profile can be found [here.](https://www.researchgate.net/profile/Sharon_Lutz2)
+
 
