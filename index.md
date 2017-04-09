@@ -15,7 +15,7 @@ sharon dot lutz @ ucdenver dot edu
 2006: MA in Mathematics, University of Colorado, Boulder<br>
 2006: BA in Mathematics, University of Colorado, Boulder
 
-### Academic/ Research Positions
+### Academic & Research Positions
 Assistant Professor: July 2011-present<br>
 Department of Biostatistic and Informatics, University of Colorado, Anschutz
 
