@@ -7,7 +7,7 @@ My research focuses on the following:
 - Statistical Computing
 - Mediation Analysis and Causal Inference  
 - Bayesian Hierarchical Models
-- Genetic Epidemiology of Pulmonary Disease, Coronary Calcium, and Nicotine Dependence  
+- Genetic Epidemiology of Pulmonary Disease, Coronary Artery Disease, and Nicotine Dependence  
 
 ### Peer Reviewed Publications
 Hartz SM, Caporaso NE, Chen LS, Hancock D, Horton A, **Lutz SM**, Hokanson JE, Johnson EO, Pato C, Pato M, Bierut LJ. (2017) Genetic Correlation Between Smoking Behaviors and Schizophrenia. Schizophrenia Research. (In Press)
