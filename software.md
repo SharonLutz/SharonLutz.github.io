@@ -9,7 +9,7 @@
 
 **SecondaryPhenotype** is an R package that adjusts for ascertainment bias when testing for genetic associations of secondary phenotypes, which can be found [here.](https://github.com/SharonLutz/software/tree/master/SecondaryPhenotype)
 
-**eQTLpowerRNAseq** is an R package that runs power calculations for eQTL analysis with no replicates per subject for RNA-seq data, which can be found [here.](https://github.com/SharonLutz/software/tree/master/eQTLpowerRNAseq)
+**eQTLpowerRNAseq** is an R package that runs power calculations for eQTL analysis for RNA-seq data, which can be found [here.](https://github.com/SharonLutz/software/tree/master/eQTLpowerRNAseq)
 
 
 
