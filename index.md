@@ -32,16 +32,19 @@ Joint Postdoctoral Research Fellow: March 2010- December 2010<br>
 Institute for Genomic Mathematics, University of Bonn, Germany<br>
 Department of Biostatistics, Harvard University
 
-Graduate Research Assistant and Teaching Assistant: May 2007- March 2010<br>
+Graduate Teaching Assistant: August 2007- December 2009<br>
+Department of Biostatistics, Harvard University
+
+Graduate Research Assistant: May 2007- March 2010<br>
 Department of Biostatistics, Harvard University
 
 Graduate Research Assistant: May 2007- August 2007<br>
 Institute for Behavioral Genetics, University of Colorado, Boulder
 
 ### Awards and Honors
-- Stellar Abstract Award, Program in Quantitative Genomics (PQG) Conference, Harvard University: 2016<br>
-- Nominated for the University of Colorado, Anschutz President's Excellence in Teaching Award: 2016<br>
-- K01 Mentored Research Scientist Development Award, National Heart Lung and Blood Institute: 2015-2020<br>
+- Stellar Abstract Award, Program in Quantitative Genomics (PQG) Conference: 2016<br>
+- Nominated for University of Colorado, Anschutz President's Excellence in Teaching Award: 2016<br>
+- K01 Mentored Research Scientist Development Award, NHLBI: 2015-2020<br>
 - Finalist for American Public Health Association Best Student Paper Award in Statistics: 2010<br>
 - Gertrude Cox Scholarship for Women in Statistics: 2006<br>
 - Phi Beta Kappa, Academic Honors Society: 2006<br>
