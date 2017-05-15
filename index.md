@@ -10,10 +10,10 @@ Aurora, CO 80045 <br>
 sharon dot lutz @ ucdenver dot edu
 
 ### Education
-2010: PhD in Biostatistics, Harvard University<br>
-2008: MS in Biostatistics, Harvard University<br>
-2006: MA in Mathematics, University of Colorado, Boulder<br>
-2006: BA in Mathematics, University of Colorado, Boulder
+PhD in Biostatistics, Harvard University: 2010<br>
+MA in Biostatistics, Harvard University: 2008<br>
+MA in Mathematics, University of Colorado, Boulder: 2006<br>
+BA in Mathematics, University of Colorado, Boulder: 2006
 
 ### Academic & Research Positions
 Assistant Professor: July 2011-present<br>
@@ -39,14 +39,14 @@ Graduate Research Assistant: May 2007- August 2007<br>
 Institute for Behavioral Genetics, University of Colorado, Boulder
 
 ### Awards and Honors
--Stellar Abstract Award, Program in Quantitative Genomics (PQG) Conference, Harvard University: 2016 <br>
--Nominated for the University of Colorado, Anschutz President's Excellence in Teaching Award: 2016 <br>
--K01 Mentored Research Scientist Development Award, National Heart Lung and Blood Institute: 2015-2020 <br>
--Finalist for American Public Health Association Best Student Paper Award in Statistics: 2010 <br>
--Gertrude Cox Scholarship for Women in Statistics: 2006 <br>
--Phi Beta Kappa, Academic Honors Society: 2006 <br>
--Leonhardy Memorial Scholarship for Mathematics: 2005 <br> 
+-Stellar Abstract Award, Program in Quantitative Genomics (PQG) Conference, Harvard University: 2016<br>
+-Nominated for the University of Colorado, Anschutz President's Excellence in Teaching Award: 2016<br>
+-K01 Mentored Research Scientist Development Award, National Heart Lung and Blood Institute: 2015-2020<br>
+-Finalist for American Public Health Association Best Student Paper Award in Statistics: 2010<br>
+-Gertrude Cox Scholarship for Women in Statistics: 2006<br>
+-Phi Beta Kappa, Academic Honors Society: 2006<br>
+-Leonhardy Memorial Scholarship for Mathematics: 2005<br> 
 -University of Colorado Regents Scholarship: 2004  
--Goldwater Scholarship Honorable Mention: 2003 <br>
--NASA Service Award for Dedication to the SORCE Mission: 2003 <br>
+-Goldwater Scholarship Honorable Mention: 2003<br>
+-NASA Service Award for Dedication to the SORCE Mission: 2003<br>
 -NASA Service Award for Dedication to the ICESat Mission: 2003
