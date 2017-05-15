@@ -49,7 +49,7 @@ Finalist for American Public Health Association Best Student Paper Award in Stat
 Gertrude Cox Scholarship for Women in Statistics: 2006<br>
 Phi Beta Kappa, Academic Honors Society: 2006<br>
 Leonhardy Memorial Scholarship for Mathematics: 2005<br> 
-University of Colorado Regents Scholarship: 2004<br>  
+University of Colorado Regents Scholarship: 2004 
 Goldwater Scholarship Honorable Mention: 2003<br>
 NASA Service Award for Dedication to the SORCE Mission: 2003<br>
 NASA Service Award for Dedication to the ICESat Mission: 2003
