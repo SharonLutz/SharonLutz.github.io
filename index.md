@@ -41,7 +41,7 @@ Department of Biostatistics, Harvard University
 Graduate Research Assistant: May 2007- August 2007<br>
 Institute for Behavioral Genetics, University of Colorado, Boulder
 
-### Awards and Honors
+### Awards & Honors
 Stellar Abstract Award, Program in Quantitative Genomics (PQG) Conference: 2016<br>
 Nominated for University of Colorado, Anschutz President's Excellence in Teaching Award: 2016<br>
 K01 Mentored Research Scientist Development Award, NHLBI: 2015-2020<br>
