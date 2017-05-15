@@ -92,7 +92,7 @@ Moore CM, Wagner BD, Kroehl M, Santorico SA, Juarez-Colunga E, **Lutz S**, Baron
 Drescher K, Getachew Z, **Lutz S**, To L, Lo MW, Villac BF. (2006) Finding Ballistic Captures Around Europa. In Advances in the Astronautical Sciences. (v124 pp 465-482). Univelt, Inc.
 
 ### Online Publications
-Cirilo PR, Filho JRAV, **Lutz SM**. (2006) Closed and Exact Differential Forms in Rn. California State University, Northridge (CSUN) Website. (https://www.csun.edu/~vcmth02i/Forms.pdf)
+Cirilo PR, Filho JRAV, **Lutz SM**. (2006) Closed and Exact Differential Forms in Rn. California State University, Northridge (CSUN) Website. [https://www.csun.edu/~vcmth02i/Forms.pdf](https://www.csun.edu/~vcmth02i/Forms.pdf)
 
 
 
