@@ -1,6 +1,6 @@
-### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
+## [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
-### Background
+## Background
 Sharon Marie Lutz<br> 
 Assistant Professor of Biostatistics and Informatics<br> 
 University of Colorado, Anschutz Medical Campus<br> 
@@ -9,13 +9,13 @@ Bldg. 500, W3128<br>
 Aurora, CO 80045<br>
 sharon dot lutz @ ucdenver dot edu
 
-### Education
+## Education
 PhD in Biostatistics, Harvard University: 2010<br>
 MA in Biostatistics, Harvard University: 2008<br>
 MA in Mathematics, University of Colorado, Boulder: 2006<br>
 BA in Mathematics, University of Colorado, Boulder: 2006
 
-### Academic & Research Positions
+## Academic & Research Positions
 Assistant Professor: July 2011-present<br>
 Department of Biostatistic and Informatics, University of Colorado, Anschutz
 
@@ -41,7 +41,7 @@ Department of Biostatistics, Harvard University
 Graduate Research Assistant: May 2007- August 2007<br>
 Institute for Behavioral Genetics, University of Colorado, Boulder
 
-### Awards & Honors
+## Awards & Honors
 - Stellar Abstract Award, Program in Quantitative Genomics (PQG) Conference: 2016<br>
 - Nominated for University of Colorado, Anschutz President's Excellence in Teaching Award: 2016<br>
 - K01 Mentored Research Scientist Development Award, NHLBI: 2015-2020<br>
