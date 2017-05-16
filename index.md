@@ -1,11 +1,11 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
 ### Background
-Sharon Marie Lutz 
-Assistant Professor of Biostatistics and Informatics 
-University of Colorado, Anschutz Medical Campus 
-13001 E. 17th Place, B119 
-Bldg. 500, W3128 
+Sharon Marie Lutz<br> 
+Assistant Professor of Biostatistics and Informatics<br> 
+University of Colorado, Anschutz Medical Campus<br> 
+13001 E. 17th Place, B119<br> 
+Bldg. 500, W3128<br> 
 Aurora, CO 80045<br>
 sharon dot lutz @ ucdenver dot edu
 
