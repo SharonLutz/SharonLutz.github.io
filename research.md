@@ -1,6 +1,6 @@
-## [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
+### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
-## Research
+### Research
 My research focuses on the following:   
 - Statistical Genetics and Genomics
 - High Dimensional Data  
@@ -9,7 +9,7 @@ My research focuses on the following:
 - Bayesian Hierarchical Models
 - Genetic Epidemiology of Pulmonary Disorders, Coronary Calcium, & Nicotine Dependence  
 
-## Peer Reviewed Publications
+### Peer Reviewed Publications
 Hartz SM, Caporaso NE, Chen LS, Hancock D, Horton A, **Lutz SM**, Hokanson JE, Johnson EO, Pato C, Pato M, Bierut LJ. (2017) Genetic Correlation Between Smoking Behaviors and Schizophrenia. Schizophrenia Research. (In Press)
 
 Qiao D, Lange C, Laird NM, Won S, Hersh CP, Morrow J, Hobbs B, **Lutz SM**, Ruczinski I, Crapo JD, Beaty TH, Silverman EK, Cho MH. (2017) Gene-based Segregation Method for Identifying Rare Variants in Family-based Sequencing Studies. Genetic Epidemiology. (In press)
@@ -82,7 +82,7 @@ Aschard H, **Lutz SM**, Maus B, Duell EJ, Fingerlin T, Chatterjee N, Kraft P, Va
 
 Vansteelandt S, Goetgeluk S, **Lutz S**, Waldamn I, Lyon H, Schadt EE, Weiss ST, Lange C. (2009) On the Adjustment for Covariates in Genetic Association Analysis: A Novel, Simple Principle to Infer Direct Effects. Genetic Epidemiology. 33(5): 394-405. 
 
-## Book Chapters
+### Book Chapters
 Moore CM, Wagner BD, Kroehl M, Santorico SA, Juarez-Colunga E, **Lutz S**, Baron AE (2015) Women in Biostatistics: A Case of Success in the United States. In Advancing Women in Science: An International Perspective (pp 233-236). New York: Springer.
 
 **Lutz SM**, Hokanson JE, Lange C. (2016) An Alternative Hypothesis Testing Strategy for Secondary Phenotype Data in Case-Control Genetic Association Studies. In Novel Approaches to the Analysis of Family Data in Genetic Epidemiology (pp 81-85). Frontiers Media SA. 
@@ -91,7 +91,7 @@ Moore CM, Wagner BD, Kroehl M, Santorico SA, Juarez-Colunga E, **Lutz S**, Baron
 
 Drescher K, Getachew Z, **Lutz S**, To L, Lo MW, Villac BF. (2006) Finding Ballistic Captures Around Europa. In Advances in the Astronautical Sciences. (v124 pp 465-482). Univelt, Inc.
 
-## Online Publications
+### Online Publications
 Cirilo PR, Filho JRAV, **Lutz SM**. (2006) Closed and Exact Differential Forms in Rn. California State University, Northridge (CSUN) Website. [https://www.csun.edu/~vcmth02i/Forms.pdf](https://www.csun.edu/~vcmth02i/Forms.pdf)
 
 
