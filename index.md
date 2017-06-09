@@ -43,7 +43,7 @@ Institute for Behavioral Genetics, University of Colorado, Boulder
 
 ### Awards & Honors
 - Stellar Abstract Award, Program in Quantitative Genomics (PQG) Conference: 2016<br>
-- Nominated for University of Colorado, Anschutz President's Excellence in Teaching Award: 2016<br>
+- Nominated for University of Colorado, Anschutz President's Excellence Teaching Award: 2016<br>
 - K01 Mentored Research Scientist Development Award, NHLBI: 2015-2020<br>
 - Finalist for American Public Health Association Best Student Paper Award in Statistics: 2010<br>
 - Gertrude Cox Scholarship for Women in Statistics: 2006<br>
