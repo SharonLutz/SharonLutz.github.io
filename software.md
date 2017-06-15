@@ -28,7 +28,8 @@ and implements the method from the following paper: <br>
 
 
 ### CausalScreen
-CausalScreen implements a screening step to increase power when testing for direct genetic effects of multiple SNPs in family based association studies using causal inference methodology. On [GitHub(https://github.com/SharonLutz/software/tree/master/CausalScreen)
+CausalScreen implements a screening step to increase power when testing for direct genetic effects of multiple SNPs in family based association studies using causal inference methodology. On 
+[GitHub](https://github.com/SharonLutz/software/tree/master/CausalScreen)
 and implements the method from the following paper: <br>
 - **Lutz SM**, Vansteelandt S, Lange C. (2013) Testing for Direct Genetic Effects Using a Screening Step in Family-Based Association Studies. Frontiers in Genetics. 4 (243).
 
