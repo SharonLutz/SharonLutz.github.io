@@ -27,7 +27,7 @@ and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Fingerlin TE. (2017) Power Calculations for eQTL Mapping and Allele Specific Expression with RNA-seq Data.  (In Preparation) 
 
 
-## [CausalScreen](https://github.com/SharonLutz/software/tree/master/CausalScreen)
+### CausalScreen
 CausalScreen implements a screening step to increase power when testing for direct genetic effects of multiple SNPs in family based association studies using causal inference methodology. Find more information [here.](https://github.com/SharonLutz/software/tree/master/CausalScreen)
 References: <br>
 - **Lutz SM**, Vansteelandt S, Lange C. (2013) Testing for Direct Genetic Effects Using a Screening Step in Family-Based Association Studies. Frontiers in Genetics. 4 (243).
@@ -35,7 +35,7 @@ References: <br>
 - Vansteelandt S, Goetgeluk S, **Lutz S**, Waldamn I, Lyon H, Schadt EE, Weiss ST, Lange C. (2009) On the Adjustment for Covariates in Genetic Association Analysis: A Novel, Simple Principle to Infer Direct Effects. Genetic Epidemiology. 33(5): 394-405.
 
 
-## [bayesIndirect](https://github.com/SharonLutz/software/tree/master/bayesIndirect)
+### bayesIndirect
 Examines the indirect effect of a SNP on the outcome through the mediator in a Bayesian framework with a spike and slab prior. Find more information [here.](https://github.com/SharonLutz/software/tree/master/bayesIndirect)
 Reference: <br>
 - **Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. Open Journal of Genetics. 3(3). 
