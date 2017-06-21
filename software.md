@@ -45,15 +45,15 @@ and implements the method from the following paper: <br>
 
 
 ### linkRARE
-Incorporates linkage data in genetic association studies with 2 approaches: 1) Bayesian Hierarchical model and 2) frequentist approach for rare variants. Find more information [here.](https://github.com/SharonLutz/software/tree/master/linkRARE)
-Reference: <br>
+Incorporates linkage data in genetic association studies with 2 approaches: 1) Bayesian Hierarchical model and 2) frequentist approach for rare variants. On [GitHub](https://github.com/SharonLutz/software/tree/master/linkRARE)
+and implements the method from the following paper: <br>
 - **Lutz SM**, Pelijto A, Thwing A, Zhang W, Fingerlin TE (2017) A Bayesian Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Association. Genetic Epidemiology (Submitted)
 
 - **Lutz SM**, Pelijto A, Thwing A,  Zhang W, Fingerlin TE (2017) An Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Associations of Rare Variants. BMC Genetics. (In preparation) 
 
 
 ### RNAseqRare
-Performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. Find more information [here.](https://github.com/SharonLutz/software/tree/master/RNAseqRare)
-Reference: <br>
+Performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/software/tree/master/RNAseqRare)
+and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Fingerlin TE. (2017) A Statistical Framework for Rare Variant Associations with RNA-seq Data. Statistics in Medicine. (In preparation)
 
