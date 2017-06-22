@@ -6,7 +6,7 @@ and implements the method from the following paper:<br>
 - **Lutz SM**, Fingerlin T, Hokanson JE, Lange C. (2016) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*. 41(2):163-170.
 
 ### Umediation
-An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/software/tree/master/Umediation)
+An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/Umediation)
  and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. (Submitted)
 
