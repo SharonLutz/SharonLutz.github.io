@@ -21,39 +21,40 @@ An R package that adjusts for ascertainment bias when testing for genetic associ
 and implements the method from the following paper: <br>
 - **Lutz SM**, Hokanson JE, Lange C. (2014) An Alternative Hypothesis Testing Strategy for Secondary Phenotype Data in Case-Control Genetic Association Studies. *Frontiers in Genetics*. 5 (188). 
 
-### eQTLpowerRNAseq
-An R package that runs power calculations for joint allele specific expression (ASE) and eQTL analyses of RNA-seq data. On [GitHub](https://github.com/SharonLutz/software/tree/master/eQTLpowerRNAseq)
+### powerASEeQTL
+An R package that runs power calculations for joint allele specific expression (ASE) and eQTL analyses of RNA-seq data. On [GitHub](https://github.com/SharonLutz/powerASEeQTL)
 and implements the method from the following paper: <br>
-- **Lutz SM**, Thwing A, Fingerlin TE. (2017) Power Calculations for eQTL Mapping and Allele Specific Expression with RNA-seq Data.  (In Preparation) 
+- **Lutz SM**, Thwing A, Fingerlin TE. (2017) Power Calculations for eQTL Mapping and Allele Specific Expression with RNA-seq Data.  (Submitted) 
 
 
 ### CausalScreen
 CausalScreen implements a screening step to increase power when testing for direct genetic effects of multiple SNPs in family based association studies using causal inference methodology. On 
 [GitHub](https://github.com/SharonLutz/software/tree/master/CausalScreen)
 and implements the method from the following paper: <br>
-- **Lutz SM**, Vansteelandt S, Lange C. (2013) Testing for Direct Genetic Effects Using a Screening Step in Family-Based Association Studies. Frontiers in Genetics. 4 (243).
+- **Lutz SM**, Vansteelandt S, Lange C. (2013) Testing for Direct Genetic Effects Using a Screening Step in Family-Based Association Studies. *Frontiers in Genetics*. 4 (243).
 
-- Vansteelandt S, Goetgeluk S, **Lutz S**, Waldamn I, Lyon H, Schadt EE, Weiss ST, Lange C. (2009) On the Adjustment for Covariates in Genetic Association Analysis: A Novel, Simple Principle to Infer Direct Effects. Genetic Epidemiology. 33(5): 394-405.
+- Vansteelandt S, Goetgeluk S, **Lutz S**, Waldamn I, Lyon H, Schadt EE, Weiss ST, Lange C. (2009) On the Adjustment for Covariates in Genetic Association Analysis: A Novel, Simple Principle to Infer Direct Effects. *Genetic Epidemiology*. 33(5): 394-405.
 
 
 ### bayesIndirect
 Examines the indirect effect of a SNP on the outcome through the mediator in a Bayesian framework with a spike and slab prior. On 
 [GitHub](https://github.com/SharonLutz/software/tree/master/bayesIndirect)
 and implements the method from the following paper: <br>
-- **Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. Open Journal of Genetics. 3(3). 
+- **Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. *Open Journal of Genetics*. 3(3). 
 
+### RNAseqRare
+Performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/software/tree/master/RNAseqRare)
+and implements the method from the following paper: <br>
+- **Lutz SM**, Thwing A, Fingerlin TE. (2017) A Statistical Framework for Rare Variant Associations with RNA-seq Data. (Submitted)
 
 
 ### linkRARE
 Incorporates linkage data in genetic association studies with 2 approaches: 1) Bayesian Hierarchical model and 2) frequentist approach for rare variants. On [GitHub](https://github.com/SharonLutz/software/tree/master/linkRARE)
 and implements the method from the following paper: <br>
-- **Lutz SM**, Pelijto A, Thwing A, Zhang W, Fingerlin TE (2017) A Bayesian Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Association. Genetic Epidemiology (Submitted)
+- **Lutz SM**, Pelijto A, Thwing A, Zhang W, Fingerlin TE (2017) A Bayesian Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Association. (In preparation)
 
-- **Lutz SM**, Pelijto A, Thwing A,  Zhang W, Fingerlin TE (2017) An Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Associations of Rare Variants. BMC Genetics. (In preparation) 
+- **Lutz SM**, Pelijto A, Thwing A,  Zhang W, Fingerlin TE (2017) An Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Associations of Rare Variants. (In preparation) 
 
 
-### RNAseqRare
-Performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/software/tree/master/RNAseqRare)
-and implements the method from the following paper: <br>
-- **Lutz SM**, Thwing A, Fingerlin TE. (2017) A Statistical Framework for Rare Variant Associations with RNA-seq Data. Statistics in Medicine. (In preparation)
+
 
