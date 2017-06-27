@@ -3,7 +3,7 @@
 ### pleiotropy 
 An R package that tests for common and rare variant associations with multiple phenotypes using the Hausdorff metric in a permutation based framework. On [GitHub](https://github.com/SharonLutz/software/tree/master/pleiotropy) 
 and implements the method from the following paper:<br>
-- **Lutz SM**, Fingerlin T, Hokanson JE, Lange C. (2016) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*. 41(2):163-170.
+- **Lutz SM**, Fingerlin T, Hokanson JE, Lange C. (2017) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*. 41(2):163-170.
 
 ### Umediation
 An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/Umediation)
