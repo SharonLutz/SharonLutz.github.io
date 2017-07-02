@@ -33,7 +33,7 @@ An interactive software package for the analysis of population based genetic ass
 ### CausalScreen
 CausalScreen implements a screening step to increase power when testing for direct genetic effects of multiple SNPs in family based association studies using causal inference methodology. On 
 [GitHub](https://github.com/SharonLutz/software/tree/master/CausalScreen)
-and implements the method from the following paper: <br>
+and implements the methods from the following papers: <br>
 - **Lutz SM**, Vansteelandt S, Lange C. (2013) Testing for Direct Genetic Effects Using a Screening Step in Family-Based Association Studies. *Frontiers in Genetics*. 4 (243).
 
 - Vansteelandt S, Goetgeluk S, **Lutz S**, Waldamn I, Lyon H, Schadt EE, Weiss ST, Lange C. (2009) On the Adjustment for Covariates in Genetic Association Analysis: A Novel, Simple Principle to Infer Direct Effects. *Genetic Epidemiology*. 33(5): 394-405.
@@ -50,7 +50,7 @@ and implements the method from the following paper: <br>
 
 ### linkRARE
 Incorporates linkage data in genetic association studies with 2 approaches: 1) Bayesian Hierarchical model and 2) frequentist approach for rare variants. On [GitHub](https://github.com/SharonLutz/software/tree/master/linkRARE)
-and implements the method from the following paper: <br>
+and implements the method from the following papers: <br>
 - **Lutz SM**, Pelijto A, Thwing A, Zhang W, Fingerlin TE (2017) A Bayesian Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Association. (In preparation)
 
 - **Lutz SM**, Pelijto A, Thwing A,  Zhang W, Fingerlin TE (2017) An Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Associations of Rare Variants. (In preparation) 
