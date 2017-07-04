@@ -8,7 +8,7 @@ and implements the method from the following paper:<br>
 ### Umediation
 An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/Umediation)
  and implements the method from the following paper: <br>
-- **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. (Submitted)
+- **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics* (In Press)
 
 ### powerASEeQTL
 An R package that runs power calculations for joint allele specific expression (ASE) and eQTL analyses of RNA-seq data. On [GitHub](https://github.com/SharonLutz/powerASEeQTL)
