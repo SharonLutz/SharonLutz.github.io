@@ -1,10 +1,5 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software) | [Websites](https://SharonLutz.github.io/website)
 
-### pleiotropy 
-An R package that tests for common and rare variant associations with multiple phenotypes using the Hausdorff metric in a permutation based framework. On [GitHub](https://github.com/SharonLutz/software/tree/master/pleiotropy) 
-and implements the method from the following paper:<br>
-- **Lutz SM**, Fingerlin T, Hokanson JE, Lange C. (2017) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*. 41(2):163-170.
-
 ### Umediation
 An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/Umediation)
  and implements the method from the following paper: <br>
@@ -19,6 +14,11 @@ and implements the method from the following paper: <br>
 Performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/software/tree/master/RNAseqRare)
 and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Fingerlin TE. (2017) A Statistical Framework for Rare Variant Associations with RNA-seq Data. (Submitted)
+
+### pleiotropy 
+An R package that tests for common and rare variant associations with multiple phenotypes using the Hausdorff metric in a permutation based framework. On [GitHub](https://github.com/SharonLutz/software/tree/master/pleiotropy) 
+and implements the method from the following paper:<br>
+- **Lutz SM**, Fingerlin T, Hokanson JE, Lange C. (2016) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*. 41(2):163-170.
 
 ### SecondaryPhenotype
 An R package that adjusts for ascertainment bias when testing for genetic associations of secondary phenotypes in population based studies.  On [GitHub](https://github.com/SharonLutz/software/tree/master/SecondaryPhenotype)
