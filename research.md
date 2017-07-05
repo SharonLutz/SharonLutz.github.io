@@ -22,7 +22,7 @@ Hartz SM, Caporaso NE, Chen LS, Hancock D, Horton A, **Lutz SM**, Hokanson JE, J
 
 Qiao D, Lange C, Laird NM, Won S, Hersh CP, Morrow J, Hobbs B, **Lutz SM**, Ruczinski I, Crapo JD, Beaty TH, Silverman EK, Cho MH. (2017) Gene-based Segregation Method for Identifying Rare Variants in Family-based Sequencing Studies. *Genetic Epidemiology*. . 41(4): 309-319.
 
-**Lutz SM**, Fingerlin T, Hokanson JE, Lange C. (2017) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*.  41(2):163-170.
+**Lutz SM**, Fingerlin T, Hokanson JE, Lange C. (2016) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*.  41(2):163-170.
 
 Begum F, Ruczinski I, Hokanson JE, **Lutz SM**, Parker MM, Cho MH, Hetmanski JB, Scharpf RB, Crapo J, Silverman EK, Beaty TH. (2016) Hemizygous Deletion on Chromosome 3p26.1 is Associated with Heavy Smoking Among African American Subjects in the COPDGene Study. *PLOS ONE*. 11(10).
 
