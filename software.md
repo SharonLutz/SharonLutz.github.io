@@ -45,7 +45,7 @@ and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Fingerlin TE. (2017) A Statistical Framework for Rare Variant Associations with RNA-seq Data. (Submitted)
 
 ### linkRARE
-An R package that incorporates linkage data in genetic association studies with 2 approaches: 1) Bayesian Hierarchical model and 2) frequentist approach for rare variants. On [GitHub](https://github.com/SharonLutz/software/tree/master/linkRARE)
+An R package that incorporates linkage data in genetic association studies with 2 approaches: 1) a Bayesian Hierarchical model and 2) a  frequentist approach for rare variants. On [GitHub](https://github.com/SharonLutz/software/tree/master/linkRARE)
 and implements the method from the following papers: <br>
 - **Lutz SM**, Pelijto A, Thwing A, Zhang W, Fingerlin TE (2017) A Bayesian Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Association. (In preparation)
 
