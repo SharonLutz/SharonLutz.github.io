@@ -5,16 +5,6 @@ An R package that examines the role of unmeasured confounding of the exposure-me
  and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* (In Press)
 
-### powerASEeQTL
-An R package that runs power calculations for joint allele specific expression (ASE) and eQTL analyses of RNA-seq data. On [GitHub](https://github.com/SharonLutz/powerASEeQTL)
-and implements the method from the following paper: <br>
-- **Lutz SM**, Thwing A, Fingerlin TE. (2017) Power Calculations for eQTL Mapping and Allele Specific Expression with RNA-seq Data.  (Submitted) 
-
-### RNAseqRare
-An R package that performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/software/tree/master/RNAseqRare)
-and implements the method from the following paper: <br>
-- **Lutz SM**, Thwing A, Fingerlin TE. (2017) A Statistical Framework for Rare Variant Associations with RNA-seq Data. (Submitted)
-
 ### pleiotropy 
 An R package that tests for common and rare variant associations with multiple phenotypes using the Hausdorff metric in a permutation based framework. On [GitHub](https://github.com/SharonLutz/software/tree/master/pleiotropy) 
 and implements the method from the following paper:<br>
@@ -42,6 +32,17 @@ An R package that examines the indirect effect of a SNP on the outcome through t
 [GitHub](https://github.com/SharonLutz/software/tree/master/bayesIndirect)
 and implements the method from the following paper: <br>
 - **Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. *Open Journal of Genetics*. 3(3). 
+
+
+### powerASEeQTL
+An R package that runs power calculations for joint allele specific expression (ASE) and eQTL analyses of RNA-seq data. On [GitHub](https://github.com/SharonLutz/powerASEeQTL)
+and implements the method from the following paper: <br>
+- **Lutz SM**, Thwing A, Fingerlin TE. (2017) Power Calculations for eQTL Mapping and Allele Specific Expression with RNA-seq Data.  (Submitted) 
+
+### RNAseqRare
+An R package that performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/software/tree/master/RNAseqRare)
+and implements the method from the following paper: <br>
+- **Lutz SM**, Thwing A, Fingerlin TE. (2017) A Statistical Framework for Rare Variant Associations with RNA-seq Data. (Submitted)
 
 ### linkRARE
 An R package that incorporates linkage data in genetic association studies with 2 approaches: 1) Bayesian Hierarchical model and 2) frequentist approach for rare variants. On [GitHub](https://github.com/SharonLutz/software/tree/master/linkRARE)
