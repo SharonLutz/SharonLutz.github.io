@@ -6,12 +6,12 @@ An R package that examines the role of unmeasured confounding of the exposure-me
 - **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* (In Press)
 
 ### pleiotropy 
-An R package that tests for common and rare variant associations with multiple phenotypes using the Hausdorff metric in a permutation based framework. On [GitHub](https://github.com/SharonLutz/software/tree/master/pleiotropy) 
+An R package that tests for common and rare variant associations with multiple phenotypes using the Hausdorff metric in a permutation based framework. On [GitHub](https://github.com/SharonLutz/pleiotropy) 
 and implements the method from the following paper:<br>
 - **Lutz SM**, Fingerlin T, Hokanson JE, Lange C. (2016) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*. 41(2):163-170.
 
 ### SecondaryPhenotype
-An R package that adjusts for ascertainment bias when testing for genetic associations of secondary phenotypes in population based studies.  On [GitHub](https://github.com/SharonLutz/software/tree/master/SecondaryPhenotype)
+An R package that adjusts for ascertainment bias when testing for genetic associations of secondary phenotypes in population based studies.  On [GitHub](https://github.com/SharonLutz/SecondaryPhenotype)
 and implements the method from the following paper: <br>
 - **Lutz SM**, Hokanson JE, Lange C. (2014) An Alternative Hypothesis Testing Strategy for Secondary Phenotype Data in Case-Control Genetic Association Studies. *Frontiers in Genetics*. 5 (188). 
 
@@ -21,7 +21,7 @@ An interactive software package for the analysis of population based genetic ass
 
 ### CausalScreen
 An R package that implements a screening step to increase power when testing for direct genetic effects of multiple SNPs in family based association studies using causal inference methodology. On 
-[GitHub](https://github.com/SharonLutz/software/tree/master/CausalScreen)
+[GitHub](https://github.com/SharonLutz/CausalScreen)
 and implements the methods from the following papers: <br>
 - **Lutz SM**, Vansteelandt S, Lange C. (2013) Testing for Direct Genetic Effects Using a Screening Step in Family-Based Association Studies. *Frontiers in Genetics*. 4 (243).
 
@@ -29,7 +29,7 @@ and implements the methods from the following papers: <br>
 
 ### bayesIndirect
 An R package that examines the indirect effect of a SNP on the outcome through the mediator in a Bayesian framework with a spike and slab prior. On 
-[GitHub](https://github.com/SharonLutz/software/tree/master/bayesIndirect)
+[GitHub](https://github.com/SharonLutz/bayesIndirect)
 and implements the method from the following paper: <br>
 - **Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. *Open Journal of Genetics*. 3(3). 
 
@@ -40,12 +40,12 @@ and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Fingerlin TE. (2017) Power Calculations for eQTL Mapping and Allele Specific Expression with RNA-seq Data.  (Submitted) 
 
 ### RNAseqRare
-An R package that performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/software/tree/master/RNAseqRare)
+An R package that performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/software/RNAseqRare)
 and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Fingerlin TE. (2017) A Statistical Framework for Rare Variant Associations with RNA-seq Data. (Submitted)
 
 ### linkRARE
-An R package that incorporates linkage data in genetic association studies with 2 approaches: 1) a Bayesian Hierarchical model and 2) a  frequentist approach for rare variants. On [GitHub](https://github.com/SharonLutz/software/tree/master/linkRARE)
+An R package that incorporates linkage data in genetic association studies with 2 approaches: 1) a Bayesian Hierarchical model and 2) a  frequentist approach for rare variants. On [GitHub](https://github.com/SharonLutz/linkBayes)
 and implements the method from the following papers: <br>
 - **Lutz SM**, Pelijto A, Thwing A, Zhang W, Fingerlin TE (2017) A Bayesian Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Association. (In preparation)
 
