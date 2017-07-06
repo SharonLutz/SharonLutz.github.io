@@ -40,7 +40,7 @@ and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Fingerlin TE. (2017) Power Calculations for eQTL Mapping and Allele Specific Expression with RNA-seq Data.  (Submitted) 
 
 ### RNAseqRare
-An R package that performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/software/RNAseqRare)
+An R package that performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/RNAseqRare)
 and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Fingerlin TE. (2017) A Statistical Framework for Rare Variant Associations with RNA-seq Data. (Submitted)
 
