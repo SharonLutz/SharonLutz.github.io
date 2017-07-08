@@ -7,7 +7,7 @@ My research focuses on the following:
 - Statistical Computing
 - Mediation Analysis and Causal Inference  
 - Bayesian Hierarchical Models
-- Genetic Epidemiology of Pulmonary Disorders, Coronary Calcium, & Nicotine Dependence  
+- Genetic Epidemiology of Pulmonary Disorders, Coronary Artery Disease, & Nicotine Dependence  
 
 ### Peer Reviewed Publications
 **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* (In Press)
