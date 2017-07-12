@@ -5,4 +5,5 @@
 - My ResearchGate profile can be found [here.](https://www.researchgate.net/profile/Sharon_Lutz2)
 - My University of Colorado, Colorado School of Public Health profile can be found [here.](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/About/Faculty/Pages/LutzS.aspx)
 - My Univeristy of Colorado, Clinical and Translational Sciences Institute profile can be found [here.](https://profiles.ucdenver.edu/display/225005)
+- University of Colorado, CSPH Causal Infernece Working Group website can be found [here.](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/WorkingGroups/Pages/Causal-Inference-Working-Group.aspx)
 
