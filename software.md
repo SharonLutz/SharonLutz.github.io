@@ -47,6 +47,6 @@ and implements the method from the following paper: <br>
 ### linkRARE
 An R package that incorporates linkage data in genetic association studies with 2 approaches: 1) a Bayesian Hierarchical model and 2) a  frequentist approach for rare variants. On [GitHub](https://github.com/SharonLutz/linkBayes)
 and implements the method from the following papers: <br>
-- **Lutz SM**, Pelijto A, Thwing A, Zhang W, Fingerlin TE (2017) A Bayesian Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Association. (In preparation)
+- **Lutz SM** et al. (2017) A Bayesian Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Association. (In preparation)
 
-- **Lutz SM**, Pelijto A, Thwing A,  Zhang W, Fingerlin TE (2017) An Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Associations of Rare Variants. (In preparation) 
+- **Lutz SM** et al. (2017) An Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Associations of Rare Variants. (In preparation) 
