@@ -3,7 +3,7 @@
 ### Umediation
 An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/Umediation)
  and implements the method from the following paper: <br>
-- **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* (In Press)
+- **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* 18(1):344.
 
 ### pleiotropy 
 An R package that tests for common and rare variant associations with multiple phenotypes using the Hausdorff metric in a permutation based framework. On [GitHub](https://github.com/SharonLutz/pleiotropy) 
