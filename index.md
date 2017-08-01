@@ -2,7 +2,7 @@
 
 ### Background
 Sharon Marie Lutz<br> 
-Assistant Professor 
+Assistant Professor<br>  
 Department of Biostatistics and Informatics<br> 
 University of Colorado, Anschutz Medical Campus<br> 
 13001 E. 17th Place, B119<br> 
