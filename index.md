@@ -1,5 +1,7 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
+<img src="https://github.com/SharonLutz/powerASEeQTL/blob/master/powerRNAseqN100Mu500.png" width="600">
+
 ### Background
 
 Sharon M. Lutz<br> 
