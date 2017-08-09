@@ -2,9 +2,6 @@
 
 <img src="https://github.com/SharonLutz/SharonLutz.github.io/blob/master/13176425072914132054.png" width="250">
 
-### Background
-
-Sharon M. Lutz<br> 
 Assistant Professor of Biostatistics and Informatics<br> 
 University of Colorado, Anschutz Medical Campus<br> 
 Email: sharon dot lutz @ ucdenver dot edu
