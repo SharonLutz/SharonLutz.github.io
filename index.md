@@ -19,7 +19,7 @@ Visiting Assistant Professor: September 2016-August 2017<br>
 Department of Biostatistics <br>
 T.H. Chan School of Public Health, Harvard University
 
-Concentration Director for the MPH in Applied Biostatistics Program: July 2013-May 2016<br>
+Concentration Director for MPH Applied Biostatistics Program: July 2013-May 2016<br>
 Department of Biostatistics and Informatics <br>
 University of Colorado, Anschutz
 
