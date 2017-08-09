@@ -12,16 +12,20 @@ BA in Mathematics, University of Colorado, Boulder: 2006
 
 ### Academic & Research Positions
 Assistant Professor: July 2011-present<br>
-Department of Biostatistic and Informatics, University of Colorado, Anschutz
+Department of Biostatistic and Informatics <br>
+University of Colorado, Anschutz
 
 Visiting Assistant Professor: September 2016-August 2017<br>
-Department of Biostatistics, T.H. Chan School of Public Health, Harvard University
+Department of Biostatistics <br>
+T.H. Chan School of Public Health, Harvard University
 
 Concentration Director for the MPH in Applied Biostatistics Program: July 2013-May 2016<br>
-Department of Biostatistics and Informatics, University of Colorado, Anschutz
+Department of Biostatistics and Informatics <br>
+University of Colorado, Anschutz
 
 Senior Research Instructor: December 2010- July 2011<br>
-Department of Biostatistics and Informatics, University of Colorado, Anschutz
+Department of Biostatistics and Informatics <br>
+University of Colorado, Anschutz
 
 Joint Postdoctoral Research Fellow: March 2010- December 2010<br>
 Institute for Genomic Mathematics, University of Bonn, Germany<br>
