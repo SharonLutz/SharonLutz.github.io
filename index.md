@@ -3,7 +3,7 @@
 
 Assistant Professor of Biostatistics and Informatics<br> 
 University of Colorado, Anschutz Medical Campus<br> 
-Email: sharon dot lutz @ ucdenver dot edu
+*Email:* sharon dot lutz @ ucdenver dot edu
 
 ### Education
 PhD in Biostatistics, Harvard University: 2010<br>
