@@ -1,6 +1,6 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
-<img src="https://github.com/SharonLutz/SharonLutz.github.io/blob/master/13176425072914132054.png" width="300">
+<img src="https://github.com/SharonLutz/SharonLutz.github.io/blob/master/13176425072914132054.png" width="250">
 
 ### Background
 
