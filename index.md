@@ -17,7 +17,7 @@ Department of Biostatistic and Informatics, CU Anschutz
 Visiting Assistant Professor: September 2016-August 2017<br>
 Department of Biostatistics, Harvard T.H. Chan School of Public Health
 
-Concentration Director for MPH Applied Biostatistics Program: July 2013-May 2016<br>
+Concentration Director for MPH Applied Biostatistics: July 2013-May 2016<br>
 Department of Biostatistics and Informatics, CU Anschutz
 
 Senior Research Instructor: December 2010- July 2011<br>
