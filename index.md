@@ -1,7 +1,5 @@
 ### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
-<img src="https://github.com/SharonLutz/SharonLutz.github.io/blob/master/13176425072914132054.png" width="250">
-
 Assistant Professor of Biostatistics and Informatics<br> 
 University of Colorado, Anschutz Medical Campus<br> 
 Email: sharon dot lutz @ ucdenver dot edu
