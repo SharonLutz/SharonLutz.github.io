@@ -57,9 +57,9 @@ Poole A, Urbanek C, Eng C, Schageman J, Jacobson S, O’ Connor BP, Galanter JM,
 
 Putcha N, Han MK, Martinez CH, Foreman MG, Anzueto AR, Casaburi R, Cho MH, Hanania NA, Hersh CP, Kinney GL, Make BJ, Steiner RM, **Lutz SM**, Thomashow BM, Williams AA, Bhatt SP, Beaty TH, Bowler RP, Ramsdell JW, Curtis JL, Everett D, Hokanson JE, Lynch DA, Sutherland ER, Silverman EK, Crapo JD, Wise RA, Regan EA, Hansel NN and the COPDGene Investigators. (2014) Comorbidities of COPD Have a Major Impact on Clinical Outcomes, Particularly in African Americans. *Journal COPD Foundation*. 1(1):105-114. 
 
-**Lutz SM**, Vansteelandt S, Lange C. (2014) Testing for Direct Genetic Effects Using a Screening Step in Family-Based Association Studies. *Frontiers in Genetics*. 4 (243). 
-
 Hughes G, Cruickshank-Quinn C, Reisdorph R, **Lutz S**, Reisdorph N, Bowler R, Kechris K. (2014) MSProcess: Summarization, Normalization, and Diagnostics for Processing of Mass Spectrometry Based Metabolomic Data. *Bioinformatics*. 30(1):133-134. 
+
+**Lutz SM**, Vansteelandt S, Lange C. (2013) Testing for Direct Genetic Effects Using a Screening Step in Family-Based Association Studies. *Frontiers in Genetics*. 4 (243). 
 
 Bowler R, Bahr T, Hughes G, **Lutz S**, Kim YI, Coldren C, Reisdroph N, Kechris K (2013) Integrative Omics Approach Identifies Interleukin 16 as a Biomarker of Emphysema. *OMICS: A Journal of Integrative Biology*. 17(12). 
 
