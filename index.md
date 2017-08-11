@@ -1,6 +1,6 @@
-### [Background](https://SharonLutz.github.io)  | [Publications](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
+### [About](https://SharonLutz.github.io)  | [Publications](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
-### Background
+### About
 Assistant Professor of Biostatistics and Informatics<br> 
 University of Colorado, Anschutz Medical Campus<br> 
 Email: sharon dot lutz @ ucdenver dot edu
