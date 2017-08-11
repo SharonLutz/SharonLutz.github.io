@@ -6,12 +6,7 @@ University of Colorado, Anschutz Medical Campus<br>
 Email: sharon dot lutz @ ucdenver dot edu
 
 ### Research Interests   
-- Statistical Genetics and Genomics
-- High Dimensional Data  
-- Statistical Computing
-- Mediation Analysis and Causal Inference  
-- Bayesian Hierarchical Models
-- Genetic Epidemiology of Pulmonary Disorders, Coronary Artery Disease, & Nicotine Dependence  
+My primary area of research is statistical genetics and genomics. My passion lies in determining and understanding the path from gene to disease. My work relates to areas like high-dimensional statistics, computational statistics, Bayesian Hierarchical Models, and mediation analysis & causal Inference.
 
 ### Education
 PhD in Biostatistics, Harvard University: 2010<br>
