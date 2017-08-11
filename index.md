@@ -5,6 +5,14 @@ Assistant Professor of Biostatistics and Informatics<br>
 University of Colorado, Anschutz Medical Campus<br> 
 Email: sharon dot lutz @ ucdenver dot edu
 
+### Research Interests   
+- Statistical Genetics and Genomics
+- High Dimensional Data  
+- Statistical Computing
+- Mediation Analysis and Causal Inference  
+- Bayesian Hierarchical Models
+- Genetic Epidemiology of Pulmonary Disorders, Coronary Artery Disease, & Nicotine Dependence  
+
 ### Education
 PhD in Biostatistics, Harvard University: 2010<br>
 MA in Biostatistics, Harvard University: 2008<br>
