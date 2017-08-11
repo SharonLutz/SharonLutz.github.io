@@ -5,8 +5,8 @@ Assistant Professor of Biostatistics and Informatics<br>
 University of Colorado, Anschutz Medical Campus<br> 
 Email: sharon dot lutz @ ucdenver dot edu
 
-### Research Interests   
-My primary area of research is statistical genetics and genomics. My passion lies in determining and understanding the path from gene to disease. My work relates to areas like high-dimensional statistics, computational statistics, Bayesian hierarchical models, and mediation analysis & causal Inference.
+### Research    
+My primary area of research is statistical genetics and genomics. I am interested in determining and understanding the path from gene to disease. My work relates to areas like high-dimensional statistics, computational statistics, Bayesian hierarchical models, and mediation analysis & causal inference.
 
 ### Education
 PhD in Biostatistics, Harvard University: 2010<br>
@@ -29,4 +29,7 @@ Department of Biostatistics and Informatics, CU Anschutz
 
 Joint Postdoctoral Research Fellow: March 2010- December 2010<br>
 Institute for Genomic Mathematics, University of Bonn, Germany<br>
+Department of Biostatistics, Harvard University
+
+Graduate Research and Teaching Assistant: August 2006- March 2010 <br>
 Department of Biostatistics, Harvard University
