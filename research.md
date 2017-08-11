@@ -1,4 +1,4 @@
-### [Home](https://SharonLutz.github.io) | [Background](https://SharonLutz.github.io/background) | [Publications](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software) 
+### [Home](https://SharonLutz.github.io) | [Background](https://SharonLutz.github.io/background) | [Publications](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
 Most of the publications are also on [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2).
 
