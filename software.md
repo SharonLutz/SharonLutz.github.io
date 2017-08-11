@@ -1,4 +1,4 @@
-### [Background](https://SharonLutz.github.io)  | [Publications](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
+### [About](https://SharonLutz.github.io)  | [Publications](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
 ### Umediation
 An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/Umediation)
