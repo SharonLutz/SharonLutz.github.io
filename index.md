@@ -1,4 +1,4 @@
-### [Background](https://SharonLutz.github.io)  | [Research](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
+### [Background](https://SharonLutz.github.io)  | [Publications](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
 ### Background
 Assistant Professor of Biostatistics and Informatics<br> 
