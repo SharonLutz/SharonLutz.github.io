@@ -1,6 +1,6 @@
 ### [Background](https://SharonLutz.github.io)  | [Publications](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software) 
 
-A list of current publications is also given on ResearchGate.
+A list of publications is also given on [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2).
 
 ### Peer Reviewed Publications
 **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* 18(1):344.
