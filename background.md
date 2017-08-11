@@ -25,3 +25,6 @@ Department of Biostatistics, Harvard University
 
 Graduate Research and Teaching Assistant: August 2006- March 2010 <br>
 Department of Biostatistics, Harvard University
+
+Graduate Research Assistant: May 2007- August 20017 <br>
+Institute for Behavioral Genetics, University of Colorado Boulder
