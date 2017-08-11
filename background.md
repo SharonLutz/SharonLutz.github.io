@@ -23,7 +23,7 @@ Joint Postdoctoral Research Fellow: March 2010- December 2010<br>
 Institute for Genomic Mathematics, University of Bonn, Germany<br>
 Department of Biostatistics, Harvard University
 
-Graduate Research and Teaching Assistant: August 2006- March 2010 <br>
+Graduate Research and Teaching Assistant: May 2007- March 2010 <br>
 Department of Biostatistics, Harvard University
 
 Graduate Research Assistant: May 2007- August 20017 <br>
