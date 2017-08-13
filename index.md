@@ -8,7 +8,6 @@ I am currently the principal investigator of a National Heart, Lung, and Blood I
 ### Contact Information  
 Department of Biostatistics and Informatics	<br> 
 University of Colorado Anschutz Medical Campus	<br> 			
-Colorado School of Public Health <br> 
 13001 E. 17th Place, Box B119 <br> 
 Bldg. 500, W3128 <br> 
 Aurora, CO 80045 <br> 
