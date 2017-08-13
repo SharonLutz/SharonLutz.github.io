@@ -1,6 +1,6 @@
 ### [Home](https://SharonLutz.github.io) | [Background](https://SharonLutz.github.io/background) | [Publications](https://SharonLutz.github.io/research) | [Software](https://SharonLutz.github.io/software)
 
-These publications can also be found on [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=B0NyeIoAAAAJ&view_op=list_works&gmla=AJsN-F7bMJt3bOTXtx5CtU4TRbjzMdteXq4GutqugSnoZwYPkipmpXth47nJ5lIH4Nm5JsVa_lIyJI70UFyvel5_ujOqxXX93vDDIax9Sk_RjGYQmnILvUs).
+These publications can also be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=B0NyeIoAAAAJ&view_op=list_works&gmla=AJsN-F7bMJt3bOTXtx5CtU4TRbjzMdteXq4GutqugSnoZwYPkipmpXth47nJ5lIH4Nm5JsVa_lIyJI70UFyvel5_ujOqxXX93vDDIax9Sk_RjGYQmnILvUs)and [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2).
 
 ### Peer Reviewed Publications
 **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* 18(1):344.
