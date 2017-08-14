@@ -8,7 +8,7 @@ BA in Mathematics, University of Colorado, Boulder: 2006
 
 ### Academic & Research Positions
 Assistant Professor: July 2011-present<br>
-Department of Biostatistic and Informatics, CU Anschutz
+Department of Biostatistics and Informatics, CU Anschutz
 
 Visiting Assistant Professor: September 2016-August 2017<br>
 Department of Biostatistics, Harvard T.H. Chan School of Public Health
