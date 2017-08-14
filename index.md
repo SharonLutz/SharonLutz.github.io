@@ -5,8 +5,6 @@ My primary area of research is statistical genetics and genomics. I am intereste
 
 I am currently the principal investigator for a National Heart, Lung, and Blood Institute (NHLBI) K01 Mentored Research Scientist Development Award. The focus of this grant is to develop statistical methods to examine common genetic pathways underlying cardiovascular disease (CVD) and chronic obstructive pulmonary disease (COPD) with application to the COPDGene study. 
 
-For the K01 award, one of these methods formally tests for pleiotropy (one gene or SNP associated with multiple phenotypes) using the Hausdorff metric and a cut-off based approach in a permutation based framework. This paper has recently been published in [Genetic Epidemiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5472207/) and the R package to implement this method is available on my [GitHub](https://github.com/SharonLutz/pleiotropy) site.
-
 ### Contact Information  
 Department of Biostatistics and Informatics	<br> 
 University of Colorado Anschutz Medical Campus	<br> 			
