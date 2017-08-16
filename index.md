@@ -3,7 +3,7 @@
 ### Research    
 My primary area of research is statistical genetics and genomics. I am interested in determining and understanding the path from gene to disease. My work relates to areas like high-dimensional statistics, computational statistics, Bayesian hierarchical models, mediation analysis, and causal inference.
 
-I am currently the principal investigator for a National Heart, Lung, and Blood Institute (NHLBI) K01 Mentored Research Scientist Development Award. The focus of this grant is to develop statistical methods to examine common genetic pathways underlying cardiovascular disease (CVD) and chronic obstructive pulmonary disease (COPD) with application to the COPDGene study. 
+I am currently the principal investigator for a National Heart, Lung, and Blood Institute (NHLBI) K01 Mentored Research Scientist Development Award. The focus of this grant is to develop statistical methods to examine common genetic pathways underlying cardiovascular disease (CVD) and chronic obstructive pulmonary disease (COPD) with application to the [COPDGene](http://www.copdgene.org) study. 
 
 ### Recent Publications
 For the K01 award, we have developed a method to formally tests for pleiotropy (one gene or SNP associated with multiple phenotypes) using the Hausdorff metric and a cut-off based approach in a permutation based framework. This paper has recently been published in [Genetic Epidemiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5472207/) and the R package to implement this method is available on my [GitHub](https://github.com/SharonLutz/pleiotropy) site.
