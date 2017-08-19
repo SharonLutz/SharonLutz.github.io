@@ -3,8 +3,8 @@
 ### Education
 PhD in Biostatistics, Harvard University: 2010<br>
 MA in Biostatistics, Harvard University: 2008<br>
-MA in Mathematics, University of Colorado, Boulder: 2006<br>
-BA in Mathematics, University of Colorado, Boulder: 2006
+MA in Mathematics, University of Colorado Boulder: 2006<br>
+BA in Mathematics, University of Colorado Boulder: 2006
 
 ### Academic & Research Positions
 Assistant Professor: July 2011-present<br>
