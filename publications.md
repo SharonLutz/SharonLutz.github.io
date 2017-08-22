@@ -9,7 +9,7 @@ McKay JD, Hung, RJ, Han Y, Zong X, Carreras-Torres R, Christiani DC, Caporaso NE
 
 Melroy-Greif WE, Simonson MA, Corley RP, **Lutz SM**, Hokanson JE, Ehringer MA. (2017) Examination of the Involvement of Cholinergic-Associated Genes in Nicotine Behaviors in European and African Americans. *Nicotine and Tobacco Research*. 19(4):417-425.
 
-Boueiz A, **Lutz S**, Cho MH, Hersh C, Bowler R, Washko G, Halper-Stromberg E, Bakke P;Gulsvik A, Laird N, Beaty T, Coxson H, Crapo J, Silverman EK, Castaldi P, DeMeo DL. (2016) Genome-Wide Association Study of the Genetic Determinants of Emphysema Distribution. *Amer J Resp Crit Care Med*. 195(6):757-771.
+Boueiz A, **Lutz S**, Cho MH, Hersh C, Bowler R, Washko G, Halper-Stromberg E, Bakke P;Gulsvik A, Laird N, Beaty T, Coxson H, Crapo J, Silverman EK, Castaldi P, DeMeo DL. (2017) Genome-Wide Association Study of the Genetic Determinants of Emphysema Distribution. *Amer J Resp Crit Care Med*. 195(6):757-771.
 
 Hartz SM, Caporaso NE, Chen LS, Hancock D, Horton A, **Lutz SM**, Hokanson JE, Johnson EO, Pato C, Pato M, Bierut LJ. (2017) Genetic Correlation Between Smoking Behaviors and Schizophrenia. *Schizophrenia Research*. S0920-9964 (17) 30111-1.
 
