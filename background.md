@@ -20,7 +20,7 @@ Senior Research Instructor: December 2010- July 2011<br>
 Department of Biostatistics & Informatics, University of Colorado Anschutz
 
 Postdoctoral Research Fellow: March 2010- December 2010<br>
-Institute for Genomic Mathematics, University of Bonn, Germany & <br>
+Institute for Genomic Mathematics, University of Bonn, Germany  <br>
 Department of Biostatistics, Harvard University
 
 Graduate Research and Teaching Assistant: May 2007- March 2010 <br>
