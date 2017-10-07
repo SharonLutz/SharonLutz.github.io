@@ -79,7 +79,7 @@ Aschard H, **Lutz SM**, Maus B, Duell EJ, Fingerlin T, Chatterjee N, Kraft P, Va
 
 Vansteelandt S, Goetgeluk S, **Lutz S**, Waldamn I, Lyon H, Schadt EE, Weiss ST, Lange C. (2009) On the Adjustment for Covariates in Genetic Association Analysis: A Novel, Simple Principle to Infer Direct Effects. *Genetic Epidemiology*. 33(5): 394-405. 
 
-### Book Chapters
+### Book Chapters & Vignettes
 Moore CM, Wagner BD, Kroehl M, Santorico SA, Juarez-Colunga E, **Lutz S**, Baron AE (2015) Women in Biostatistics: A Case of Success in the United States. In *Advancing Women in Science: An International Perspective* (pp 233-236). New York: Springer.
 
 **Lutz SM**, Hokanson JE, Lange C. (2016) An Alternative Hypothesis Testing Strategy for Secondary Phenotype Data in Case-Control Genetic Association Studies. In *Novel Approaches to the Analysis of Family Data in Genetic Epidemiology* (pp 81-85). Frontiers Media SA. 
