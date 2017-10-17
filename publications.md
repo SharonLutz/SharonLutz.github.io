@@ -3,7 +3,7 @@
 These publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2).
 
 ### Peer Reviewed Publications
-Hancock DB, Guo Y, Reginsson GW, Gaddis NC, **Lutz SM**, Sherva R, Loukola A, Minica CC, Markunas CA, Han Y, Young KA, Gudbjartsson DF, Gu F, McNeil DW, Qaiser B, Glasheen C, Olson S, Landi MT, Madden PAF, Farrer LA, Vink J, Saccone NL, Neale MC, Kranzler HR, McKay J, Hung RJ, Amos CI, Marazita ML, Boomsma DI, Baker TB, Gelernter J, Kaprio J, Caporaso NE, Thorgeirsson TE, Hokanson JE, Bierut LJ, Stefansson K, Johnson EO. (2017) Genome-wide association study across European and African American ancestries identifies a SNP in DNMT3B contributing to nicotine dependence. *Mol Psychiatry.* 
+Hancock DB, Guo Y, Reginsson GW, Gaddis NC, **Lutz SM**, Sherva R, Loukola A, Minica CC, Markunas CA, Han Y, Young KA, Gudbjartsson DF, Gu F, McNeil DW, Qaiser B, Glasheen C, Olson S, Landi MT, Madden PAF, Farrer LA, Vink J, Saccone NL, Neale MC, Kranzler HR, McKay J, Hung RJ, Amos CI, Marazita ML, Boomsma DI, Baker TB, Gelernter J, Kaprio J, Caporaso NE, Thorgeirsson TE, Hokanson JE, Bierut LJ, Stefansson K, Johnson EO. (2017) Genome-wide association study across European and African American ancestries identifies a SNP in DNMT3B contributing to nicotine dependence. *Mol Psychiatry.* (In Press)
 
 **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* 18(1):344.
 
