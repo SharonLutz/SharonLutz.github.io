@@ -81,7 +81,7 @@ Aschard H, **Lutz SM**, Maus B, Duell EJ, Fingerlin T, Chatterjee N, Kraft P, Va
 
 Vansteelandt S, Goetgeluk S, **Lutz S**, Waldamn I, Lyon H, Schadt EE, Weiss ST, Lange C. (2009) On the Adjustment for Covariates in Genetic Association Analysis: A Novel, Simple Principle to Infer Direct Effects. *Genetic Epidemiology*. 33(5): 394-405. 
 
-Drescher K, Getachew Z, **Lutz S**, To L, Lo MW, Villac BF. (2006) Finding Ballistic Captures Around Europa. Advances in the Astronautical Sciences. 124: 465-482.
+Drescher K, Getachew Z, **Lutz S**, To L, Lo MW, Villac BF. (2006) Finding Ballistic Captures Around Europa. *Advances in the Astronautical Sciences*. 124: 465-482.
 
 
 ### Book Chapters & Vignettes
