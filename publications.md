@@ -81,6 +81,9 @@ Aschard H, **Lutz SM**, Maus B, Duell EJ, Fingerlin T, Chatterjee N, Kraft P, Va
 
 Vansteelandt S, Goetgeluk S, **Lutz S**, Waldamn I, Lyon H, Schadt EE, Weiss ST, Lange C. (2009) On the Adjustment for Covariates in Genetic Association Analysis: A Novel, Simple Principle to Infer Direct Effects. *Genetic Epidemiology*. 33(5): 394-405. 
 
+Drescher K, Getachew Z, **Lutz S**, To L, Lo MW, Villac BF. (2006) Finding Ballistic Captures Around Europa. Advances in the Astronautical Sciences. 124:465-482.
+
+
 ### Book Chapters & Vignettes
 Moore CM, Wagner BD, Kroehl M, Santorico SA, Juarez-Colunga E, **Lutz S**, Baron AE (2015) Women in Biostatistics: A Case of Success in the United States. In *Advancing Women in Science: An International Perspective* (pp 233-236). New York: Springer.
 
@@ -88,7 +91,6 @@ Moore CM, Wagner BD, Kroehl M, Santorico SA, Juarez-Colunga E, **Lutz S**, Baron
 
 **Lutz SM**, Vansteelandt S, Lange C. (2016) Testing for Direct Genetic Effects Using a Screening Step in Family-Based Association Studies. Frontiers in Genetics. In *Novel Approaches to the Analysis of Family Data in Genetic Epidemiology* (pp 72-80). Frontiers Media SA. 
 
-Drescher K, Getachew Z, **Lutz S**, To L, Lo MW, Villac BF. (2006) Finding Ballistic Captures Around Europa. In *Advances in the Astronautical Sciences*. (v124 pp 465-482). Univelt, Inc.
 
 ### Online Publications
 Cirilo PR, Filho JRAV, **Lutz SM**. (2006) Closed and Exact Differential Forms in Rn. California State University, Northridge (CSUN) Website. [https://www.csun.edu/~vcmth02i/Forms.pdf](https://www.csun.edu/~vcmth02i/Forms.pdf)
