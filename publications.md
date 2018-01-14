@@ -3,6 +3,10 @@
 These publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2).
 
 ### Peer Reviewed Publications
+Bhatt SP, Kim YI, Harrington KF, Hokanson JE, **Lutz SM**, Cho MH, Demeo DL, Wells JM, Make BJ, Rennard SI, Washko GR, Foreman MG, Tashkin DP, Wise RA, Dransfield MT, Bailey WC, and the COPDGene Investigators. (2018) Smoking duration alone provides stronger risk estimates of chronic obstructive pulmonary disease than pack-years. *Thorax*. (In Press) 
+
+McDonald MLN, Diaz AA, Rutten E, **Lutz SM**, Harmouche R, San Jose Estepar R, Kinney G, Hokanson J, Gower BA, Wouters EFM, Rennard SI, Hersh CP, Casaburi R, Dransfield M, Silverman EK, Washko GR. (2017) Chest CT Derived Low Fat-Free Mass Index and Mortality in COPD. *European Respiratory Journal*. 50(6).
+
 Hancock DB, Guo Y, Reginsson GW, Gaddis NC, **Lutz SM**, Sherva R, Loukola A, Minica CC, Markunas CA, Han Y, Young KA, Gudbjartsson DF, Gu F, McNeil DW, Qaiser B, Glasheen C, Olson S, Landi MT, Madden PAF, Farrer LA, Vink J, Saccone NL, Neale MC, Kranzler HR, McKay J, Hung RJ, Amos CI, Marazita ML, Boomsma DI, Baker TB, Gelernter J, Kaprio J, Caporaso NE, Thorgeirsson TE, Hokanson JE, Bierut LJ, Stefansson K, Johnson EO. (2017) Genome-wide association study across European and African American ancestries identifies a SNP in DNMT3B contributing to nicotine dependence. *Mol Psychiatry.* (In Press)
 
 **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* 18(1):344.
