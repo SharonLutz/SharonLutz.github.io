@@ -3,6 +3,8 @@
 These publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2).
 
 ### Peer Reviewed Publications
+Glasheen C, Johnson EO,  Saccone NL, **Lutz SM**, Baker TB, McNeil DW, Marazita ML, Hokanson JE, Bierut LJ, Hancock DB (2018) Is the Fagerström Test for Nicotine Dependence Invariant across Secular Trends in Smoking? A Question for Cross-Birth Cohort Analysis of Nicotine Dependence. *Drug and Alchol Dependence*. (185):127-132. 
+
 Bhatt SP, Kim YI, Harrington KF, Hokanson JE, **Lutz SM**, Cho MH, Demeo DL, Wells JM, Make BJ, Rennard SI, Washko GR, Foreman MG, Tashkin DP, Wise RA, Dransfield MT, Bailey WC, and the COPDGene Investigators. (2018) Smoking duration alone provides stronger risk estimates of chronic obstructive pulmonary disease than pack-years. *Thorax*. (In Press) 
 
 McDonald MLN, Diaz AA, Rutten E, **Lutz SM**, Harmouche R, San Jose Estepar R, Kinney G, Hokanson J, Gower BA, Wouters EFM, Rennard SI, Hersh CP, Casaburi R, Dransfield M, Silverman EK, Washko GR. (2017) Chest CT Derived Low Fat-Free Mass Index and Mortality in COPD. *European Respiratory Journal*. 50(6).
