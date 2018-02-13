@@ -37,16 +37,16 @@ and implements the method from the following paper: <br>
 ### powerASEeQTL
 An R package that runs power calculations for joint allele specific expression (ASE) and eQTL analyses of RNA-seq data. On [GitHub](https://github.com/SharonLutz/powerASEeQTL)
 and implements the method from the following paper: <br>
-- **Lutz SM**, Thwing A, Fingerlin TE. (2017) Power Calculations for eQTL Mapping and Allele Specific Expression with RNA-seq Data.  (Submitted) 
+- **Lutz SM**, Thwing A, Fingerlin TE. (2018) Power Calculations for eQTL Mapping and Allele Specific Expression with RNA-seq Data.  (Submitted) 
 
 ### RNAseqRare
 An R package that performs expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/RNAseqRare)
 and implements the method from the following paper: <br>
-- **Lutz SM**, Thwing A, Fingerlin TE. (2017) A Statistical Framework for Rare Variant Associations with RNA-seq Data. (Submitted)
+- **Lutz SM**, Thwing A, Fingerlin TE. (2018) A Statistical Framework for Rare Variant Associations with RNA-seq Data. (Submitted)
 
 ### linkBayes
 An R package that incorporates linkage data in genetic association studies with 2 approaches: 1) a Bayesian Hierarchical model and 2) a  frequentist approach for rare variants. On [GitHub](https://github.com/SharonLutz/linkBayes)
 and implements the method from the following papers: <br>
-- **Lutz SM**, et al. (2017) A Bayesian Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Association. (In preparation)
+- **Lutz SM**, et al. (2018) A Bayesian Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Association. (In preparation)
 
-- **Lutz SM**, et al. (2017) An Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Associations of Rare Variants. (In preparation) 
+- **Lutz SM**, et al. (2018) An Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Associations of Rare Variants. (In preparation) 
