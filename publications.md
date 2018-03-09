@@ -100,3 +100,4 @@ Moore CM, Wagner BD, Kroehl M, Santorico SA, Juarez-Colunga E, **Lutz S**, Baron
 
 ### Online Publications
 Cirilo PR, Filho JRAV, **Lutz SM**. (2006) Closed and Exact Differential Forms in Rn. California State University, Northridge (CSUN) Website. [https://www.csun.edu/~vcmth02i/Forms.pdf](https://www.csun.edu/~vcmth02i/Forms.pdf)
+
