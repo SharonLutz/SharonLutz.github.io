@@ -1,7 +1,7 @@
 ### [Home](https://SharonLutz.github.io) | [Background](https://SharonLutz.github.io/background) | [Publications](https://SharonLutz.github.io/publications) | [Software](https://SharonLutz.github.io/software)
 
 ### gxeRC
-An R package that examines the SNP by environment interactions for both common and rare variants. On [GitHub](https://github.com/SharonLutz/gxeRC)
+An R package that examines SNP by environment interactions for both common and rare variants. On [GitHub](https://github.com/SharonLutz/gxeRC)
  and implements the power analysis used in the following paper: <br>
 - **Lutz SM**, Frederiksen B, Begum F, Cho MH, Hobbs B, McDonald ML, Parker MM, DeMeo DL, Jiang L, Eringher M, Young K, Foreman MG, Kinney GL, Make BJ, Lomas DA, Bakke P, Gulsvik A, Crapo JD, Silverman EK, Beaty TH, Hokanson JE. (2018) Common and Rare Variants Analysis of Smoking Related Traits Among Current and Former Smokers of European and African Ancestry. *NTR* (In Press).
 
