@@ -49,7 +49,7 @@ An R package that performs expression quantitative trait loci (eQTL) analyses of
 and implements the method from the following paper: <br>
 - **Lutz SM**, Thwing A, Fingerlin TE. (2018) A Statistical Framework for Rare Variant Associations with RNA-seq Data. (Submitted)
 
-### linkRara
+### linkRare
 An R package that incorporates linkage data in genetic association studies for rare and common variants. On [GitHub](https://github.com/SharonLutz/linkRare)
 and implements the method from the following paper: <br>
 - **Lutz SM**, et al. (2018) An Approach to Integrate Family-Specific Linkage Scores in Case-Control Tests of Associations of Rare Variants. (In preparation) 
