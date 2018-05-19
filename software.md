@@ -38,6 +38,10 @@ An R package that examines the indirect effect of a SNP on the outcome through t
 and implements the method from the following paper: <br>
 - **Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. *Open Journal of Genetics*. 3(3). 
 
+### powerMRMA 
+An R package that compares the effect of the mediator on the outcome given at least one SNP serves as an instrumental variable for the mediator. On Github (https://github.com/SharonLutz/powerMRMA) and implements the method from the following paper:
+
+- Thwing A, Hokanson JE, Cho M, Ghosh D, **Lutz SM**. (2018) Mediated Paths in Genetic Association Studies: A Comparison of Mendelian Randomization and Mediation Analysis. (Submitted)
 
 ### powerASEeQTL
 An R package that runs power calculations for joint allele specific expression (ASE) and eQTL analyses of RNA-seq data. On [GitHub](https://github.com/SharonLutz/powerASEeQTL)
