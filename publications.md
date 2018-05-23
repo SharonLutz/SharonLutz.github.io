@@ -75,7 +75,7 @@ Hughes G, Cruickshank-Quinn C, Reisdorph R, **Lutz S**, Reisdorph N, Bowler R, K
 
 Bowler R, Bahr T, Hughes G, **Lutz S**, Kim YI, Coldren C, Reisdroph N, Kechris K (2013) Integrative Omics Approach Identifies Interleukin 16 as a Biomarker of Emphysema. *OMICS: A Journal of Integrative Biology*. 17(12). 
 
-**Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. *Open Journal of Genetics*. 3(3).
+**Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles and Endo-Phenotypes in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. *Open Journal of Genetics*. 3(3).
 
 Kinney GL, Black-Shinn J, Wan ES, Make B, Regan E, **Lutz SM**, Soler X, Silverman EK, Crapo J, Hokanson JE, and the COPDGene Investigators. (2013) Pulmonary Function Reduction in Diabetes with and without Chronic Obstructive Pulmonary Disease. *Diabetes Care*. 37 (2): 389-95. 
 
@@ -91,9 +91,6 @@ Aschard H, **Lutz SM**, Maus B, Duell EJ, Fingerlin T, Chatterjee N, Kraft P, Va
 
 Vansteelandt S, Goetgeluk S, **Lutz S**, Waldamn I, Lyon H, Schadt EE, Weiss ST, Lange C. (2009) On the Adjustment for Covariates in Genetic Association Analysis: A Novel, Simple Principle to Infer Direct Effects. *Genetic Epidemiology*. 33(5): 394-405. 
 
-Drescher K, Getachew Z, **Lutz S**, To L, Lo MW, Villac BF. (2006) Finding Ballistic Captures Around Europa. *Advances in the Astronautical Sciences*. 124: 465-482.
-
-
 ### Book Chapters & Vignettes
 Moore CM, Wagner BD, Kroehl M, Santorico SA, Juarez-Colunga E, **Lutz S**, Baron AE (2015) Women in Biostatistics: A Case of Success in the United States. In *Advancing Women in Science: An International Perspective* (pp 233-236). New York: Springer.
 
@@ -103,5 +100,9 @@ Moore CM, Wagner BD, Kroehl M, Santorico SA, Juarez-Colunga E, **Lutz S**, Baron
 
 
 ### Online Publications
+Zhan X, Chen S, Jiang Y, Liu M, Iacono WG, Hewitt JK, Hokanson JE, Krauter K, Laakso M, Li KW, **Lutz SM**, McGue M, Pandit A, Zajac GJM, Boehnke M, Abecasis GR, Jiang B, Vrieze SI, Liu DJ. (2017). Association Analysis and Meta-Analysis of Multi-allelic Variants for Large Scale Sequence Data. *Cold Spring Harbor Laboratory bioRxiv*. https://doi.org/10.1101/197913
+
 Cirilo PR, Filho JRAV, **Lutz SM**. (2006) Closed and Exact Differential Forms in Rn. California State University, Northridge (CSUN) Website. [https://www.csun.edu/~vcmth02i/Forms.pdf](https://www.csun.edu/~vcmth02i/Forms.pdf)
 
+### Conference Papers
+Drescher K, Getachew Z, **Lutz S**, To L, Lo MW, Villac BF. (2006) Finding Ballistic Captures Around Europa. *Advances in the Astronautical Sciences*. 124: 465-482.
