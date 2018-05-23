@@ -3,6 +3,10 @@
 These publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2).
 
 ### Peer Reviewed Publications
+**Lutz** SM, Frederiksen B, Begum F, McDonald ML, Cho MH, Hobbs B, Parker MM, DeMeo DL, Hersh CP,  Eringher M, Young K, Jiang L, Foreman MG, Kinney GL, Make BJ, Lomas DA, Bakke P, Gulsvik A, Crapo JD, Silverman EK, Beaty TH, Hokanson JE, ECLIPSE and COPDGene Investigators. (2018) Common and Rare Variants Genetic Association Analysis of Cigarettes Per Day Among Ever Smokers in COPD Cases and Controls. *NTR*. (In Press)
+
+Kinney GL, Santorico S, Young K, Cho M, Castaldi P, San Jose Estapar R, Ross J, Dy J, Make B, Regan E, Lynch D, Everett DC, **Lutz SM**, Silverman EK, Washko G, Crapo J, Hokanson JE, and the COPDGene Investigators. (2018) Identification of Chronic Obstructive Pulmonary Disease Axes That Predict All-Cause Mortality: The COPDGene Study. *American Journal of Epidemiology*. (In Press)
+
 Glasheen C, Johnson EO,  Saccone NL, **Lutz SM**, Baker TB, McNeil DW, Marazita ML, Hokanson JE, Bierut LJ, Hancock DB (2018) Is the Fagerström Test for Nicotine Dependence Invariant across Secular Trends in Smoking? A Question for Cross-Birth Cohort Analysis of Nicotine Dependence. *Drug and Alchol Dependence*. (185):127-132. 
 
 Bhatt SP, Kim YI, Harrington KF, Hokanson JE, **Lutz SM**, Cho MH, Demeo DL, Wells JM, Make BJ, Rennard SI, Washko GR, Foreman MG, Tashkin DP, Wise RA, Dransfield MT, Bailey WC, and the COPDGene Investigators. (2018) Smoking duration alone provides stronger risk estimates of chronic obstructive pulmonary disease than pack-years. *Thorax*. (In Press) 
