@@ -1,6 +1,6 @@
 ### [Home](https://SharonLutz.github.io) | [Background](https://SharonLutz.github.io/background) | [Publications](https://SharonLutz.github.io/publications) | [Software](https://SharonLutz.github.io/software)
 
-These publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao), [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2), and [ncbi](https://www.ncbi.nlm.nih.gov/sites/myncbi/sharon.lutz.1/bibliography/50152921/public/?sort=date&direction=ascending).
+These publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao), [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2), and [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/sharon.lutz.1/bibliography/50152921/public/?sort=date&direction=ascending).
 
 ### Peer Reviewed Publications
 **Lutz** SM, Frederiksen B, Begum F, McDonald ML, Cho MH, Hobbs B, Parker MM, DeMeo DL, Hersh CP,  Eringher M, Young K, Jiang L, Foreman MG, Kinney GL, Make BJ, Lomas DA, Bakke P, Gulsvik A, Crapo JD, Silverman EK, Beaty TH, Hokanson JE, ECLIPSE and COPDGene Investigators. (2018) Common and Rare Variants Genetic Association Analysis of Cigarettes Per Day Among Ever Smokers in COPD Cases and Controls. *NTR*. (In Press)
