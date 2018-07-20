@@ -3,9 +3,11 @@
 These publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao), [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2), and [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/sharon.lutz.1/bibliography/50152921/public/?sort=date&direction=ascending).
 
 ### Peer Reviewed Publications
-**Lutz** SM, Frederiksen B, Begum F, McDonald ML, Cho MH, Hobbs B, Parker MM, DeMeo DL, Hersh CP,  Eringher M, Young K, Jiang L, Foreman MG, Kinney GL, Make BJ, Lomas DA, Bakke P, Gulsvik A, Crapo JD, Silverman EK, Beaty TH, Hokanson JE, ECLIPSE and COPDGene Investigators. (2018) Common and Rare Variants Genetic Association Analysis of Cigarettes Per Day Among Ever Smokers in COPD Cases and Controls. *NTR*. (In Press)
+Jiang Y, Chen S, McGuireD, Chen F, Liu M, Iacono WG, Hewitt JK, Hokanson JE, Krauter K, Laakso M, Li KW, **Lutz SM**, McGue M, Pandit A, Zajac G, Boehnke M, Abecasis GR, Vrieze SI, Zhan X, Jiang B, Liu DJ. (2018) Proper Conditional Analysis in the Presence of Missing Data: Application to Large Scale Meta-analysis of Tobacco Use Phenotypes. *Plos Genetics*. (In Press).
 
 Kinney GL, Santorico S, Young K, Cho M, Castaldi P, San Jose Estapar R, Ross J, Dy J, Make B, Regan E, Lynch D, Everett DC, **Lutz SM**, Silverman EK, Washko G, Crapo J, Hokanson JE, and the COPDGene Investigators. (2018) Identification of Chronic Obstructive Pulmonary Disease Axes That Predict All-Cause Mortality: The COPDGene Study. *American Journal of Epidemiology*. (In Press)
+
+**Lutz** SM, Frederiksen B, Begum F, McDonald ML, Cho MH, Hobbs B, Parker MM, DeMeo DL, Hersh CP,  Eringher M, Young K, Jiang L, Foreman MG, Kinney GL, Make BJ, Lomas DA, Bakke P, Gulsvik A, Crapo JD, Silverman EK, Beaty TH, Hokanson JE, ECLIPSE and COPDGene Investigators. (2018) Common and Rare Variants Genetic Association Analysis of Cigarettes Per Day Among Ever Smokers in COPD Cases and Controls. *NTR*. (In Press)
 
 Glasheen C, Johnson EO,  Saccone NL, **Lutz SM**, Baker TB, McNeil DW, Marazita ML, Hokanson JE, Bierut LJ, Hancock DB (2018) Is the Fagerström Test for Nicotine Dependence Invariant across Secular Trends in Smoking? A Question for Cross-Birth Cohort Analysis of Nicotine Dependence. *Drug and Alchol Dependence*. (185):127-132. 
 
@@ -105,4 +107,6 @@ Zhan X, Chen S, Jiang Y, Liu M, Iacono WG, Hewitt JK, Hokanson JE, Krauter K, La
 Cirilo PR, Filho JRAV, **Lutz SM**. (2006) Closed and Exact Differential Forms in Rn. California State University, Northridge (CSUN) Website. [https://www.csun.edu/~vcmth02i/Forms.pdf](https://www.csun.edu/~vcmth02i/Forms.pdf)
 
 ### Conference Papers
+**Lutz SM**, Sharma S, Weiss S, Raby B, Lange C. (2010) Using Expression Data in Genetic Association Studies: An Integrated Bayesian Approach to Determine Genetic Pathways. *American Public Health Association*. (Finalist for the American Public Health Assoc. Best Student Paper Award in Statistics.)
+
 Drescher K, Getachew Z, **Lutz S**, To L, Lo MW, Villac BF. (2006) Finding Ballistic Captures Around Europa. *Advances in the Astronautical Sciences*. 124: 465-482.
