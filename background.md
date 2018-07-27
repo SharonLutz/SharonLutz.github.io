@@ -28,19 +28,3 @@ Department of Biostatistics, Harvard University
 
 Graduate Research and Teaching Assistant: May 2007- March 2010 <br>
 Department of Biostatistics, Harvard University
-
-Graduate Research Assistant: May 2007- August 2007 <br>
-Institute for Behavioral Genetics, University of Colorado Boulder
-
-Ungraduate Research Assistant: Summer 2005 <br>
-Research in Industrial Projects for Students (RIPS) Program <br>
-Institute of Pure and Applied Math, University of California, Los Angeles  
-
-Undergraduate Research Assistant: Summer 2004 <br>
-National Science Foundation Research Experience for Undergraduates
-Unicamp University, Campinas, Brazil <br>
-
-Command Controller:  May 2002- January 2005 <br>
-Mission Operations Department, Laboratory of Atmospheric & Space Physics <br>
-University of Colorado Boulder 
-
