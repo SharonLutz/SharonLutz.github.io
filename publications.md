@@ -102,7 +102,7 @@ Moore CM, Wagner BD, Kroehl M, Santorico SA, Juarez-Colunga E, **Lutz S**, Baron
 
 
 ### Online Publications
-Zhan X, Chen S, Jiang Y, Liu M, Iacono WG, Hewitt JK, Hokanson JE, Krauter K, Laakso M, Li KW, **Lutz SM**, McGue M, Pandit A, Zajac GJM, Boehnke M, Abecasis GR, Jiang B, Vrieze SI, Liu DJ. (2017). Association Analysis and Meta-Analysis of Multi-allelic Variants for Large Scale Sequence Data. *Cold Spring Harbor Laboratory bioRxiv*. https://doi.org/10.1101/197913
+Zhan X, Chen S, Jiang Y, Liu M, Iacono WG, Hewitt JK, Hokanson JE, Krauter K, Laakso M, Li KW, **Lutz SM**, McGue M, Pandit A, Zajac GJM, Boehnke M, Abecasis GR, Jiang B, Vrieze SI, Liu DJ. (2017). Association Analysis and Meta-Analysis of Multi-allelic Variants for Large Scale Sequence Data. *Cold Spring Harbor Laboratory bioRxiv*. [https://doi.org/10.1101/197913](https://doi.org/10.1101/197913)
 
 Cirilo PR, Filho JRAV, **Lutz SM**. (2006) Closed and Exact Differential Forms in Rn. California State University, Northridge (CSUN) Website. [https://www.csun.edu/~vcmth02i/Forms.pdf](https://www.csun.edu/~vcmth02i/Forms.pdf)
 
