@@ -1,10 +1,10 @@
 ### [Home](https://SharonLutz.github.io) | [Background](https://SharonLutz.github.io/background) | [Publications](https://SharonLutz.github.io/publications) | [Software](https://SharonLutz.github.io/software)
 
 ### Education
-PhD in Biostatistics, Harvard University: 2010<br>
-MA in Biostatistics, Harvard University: 2008<br>
-MA in Mathematics, University of Colorado Boulder: 2006<br>
-BA in Mathematics, University of Colorado Boulder: 2006
+PhD in Biostatistics, Harvard University <br>
+MA in Biostatistics, Harvard University <br>
+MA in Mathematics, University of Colorado Boulder <br>
+BA in Mathematics, University of Colorado Boulder 
 
 ### Academic & Research Positions
 Associate Professor: July 2018- present<br>
