@@ -5,11 +5,3 @@ My primary area of research is statistical genetics and genomics. I am intereste
 
 I am currently the principal investigator for a National Heart, Lung, and Blood Institute (NHLBI) K01 Mentored Research Scientist Development Award. The focus of this grant is to develop statistical methods to examine common genetic pathways underlying cardiovascular disease (CVD) and chronic obstructive pulmonary disease (COPD) with application to the [COPDGene](http://www.copdgene.org) study. 
 
-### Contact Information  
-Department of Biostatistics and Informatics	<br> 
-University of Colorado Anschutz Medical Campus	<br> 			
-13001 E. 17th Place, Box B119 <br> 
-Bldg. 500, W3128 <br> 
-Aurora, CO 80045 <br> 
-
-Email: sharon dot lutz @ ucdenver dot edu
