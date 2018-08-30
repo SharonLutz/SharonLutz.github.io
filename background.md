@@ -7,7 +7,10 @@ MA in Mathematics, University of Colorado Boulder <br>
 BA in Mathematics, University of Colorado Boulder 
 
 ### Academic & Research Positions
-Associate Professor: July 2018- present<br>
+Current Position: September 2018- present <br>
+Department of Population Medicine, Harvard Medical School
+
+Associate Professor: July 2018- August 2018 <br>
 Department of Biostatistics & Informatics, University of Colorado Anschutz
 
 Visiting Assistant Professor: September 2016- August 2017<br>
