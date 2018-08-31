@@ -6,3 +6,8 @@ My primary area of research is statistical genetics and genomics. I am intereste
 I am currently the principal investigator for a National Heart, Lung, and Blood Institute (NHLBI) K01 Mentored Research Scientist Development Award. The focus of this grant is to develop statistical methods to examine common genetic pathways underlying cardiovascular disease (CVD) and chronic obstructive pulmonary disease (COPD) with application to the [COPDGene](http://www.copdgene.org) study. 
 
 ### Contact Information
+Department of Population Medicine <br>
+Harvard Medical School and Harvard Pilgrim Health Care <br>
+401 Park Drive, Suite 401 <br>
+Boston, MA 02215 
+ 
