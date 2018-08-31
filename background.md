@@ -8,7 +8,8 @@ BA in Mathematics, University of Colorado Boulder
 
 ### Academic & Research Positions
 Current Position: September 2018- present <br>
-Department of Population Medicine, Harvard Medical School
+Department of Population Medicine <br>
+Harvard Medical School and Harvard Pilgrim Health Care 
 
 Associate Professor: July 2018- August 2018 <br>
 Department of Biostatistics & Informatics, University of Colorado Anschutz
