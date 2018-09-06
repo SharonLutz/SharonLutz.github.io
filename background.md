@@ -7,7 +7,7 @@ MA in Mathematics, University of Colorado Boulder <br>
 BA in Mathematics, University of Colorado Boulder 
 
 ### Academic & Research Positions
-Current Position: September 2018- present <br>
+Faculty Member: September 2018- present <br>
 Department of Population Medicine <br>
 Harvard Medical School and Harvard Pilgrim Health Care 
 
