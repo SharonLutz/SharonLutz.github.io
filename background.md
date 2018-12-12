@@ -22,10 +22,3 @@ Department of Biostatistics & Informatics, University of Colorado Anschutz
 
 Assistant Professor: 2011- 2018<br>
 Department of Biostatistics & Informatics, University of Colorado Anschutz
-
-Senior Research Instructor: 2011 <br>
-Department of Biostatistics & Informatics, University of Colorado Anschutz
-
-Postdoctoral Research Fellow: 2010<br>
-Institute for Genomic Mathematics, University of Bonn, Germany  <br>
-Department of Biostatistics, Harvard T.H. Chan School of Public Health
