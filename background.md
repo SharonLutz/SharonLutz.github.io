@@ -7,25 +7,25 @@ MA in Mathematics, University of Colorado Boulder <br>
 BA in Mathematics, University of Colorado Boulder 
 
 ### Academic & Research Positions
-Faculty Member: September 2018- present <br>
+Faculty Member: 2018- present <br>
 Department of Population Medicine <br>
 Harvard Medical School and Harvard Pilgrim Health Care 
 
-Associate Professor: July 2018- August 2018 <br>
+Associate Professor: 2018 <br>
 Department of Biostatistics & Informatics, University of Colorado Anschutz
 
-Visiting Assistant Professor: September 2016- August 2017<br>
+Visiting Assistant Professor: 2016- 2017<br>
 Department of Biostatistics, Harvard T.H. Chan School of Public Health
 
-Concentration Director for MPH Applied Biostatistics: July 2013- May 2016<br>
+Concentration Director for MPH Applied Biostatistics: 2013- 2016<br>
 Department of Biostatistics & Informatics, University of Colorado Anschutz 
 
-Assistant Professor: July 2011- June 2018<br>
+Assistant Professor: 2011- 2018<br>
 Department of Biostatistics & Informatics, University of Colorado Anschutz
 
-Senior Research Instructor: December 2010- July 2011<br>
+Senior Research Instructor: 2011 <br>
 Department of Biostatistics & Informatics, University of Colorado Anschutz
 
-Postdoctoral Research Fellow: March 2010- December 2010<br>
+Postdoctoral Research Fellow: 2010<br>
 Institute for Genomic Mathematics, University of Bonn, Germany  <br>
 Department of Biostatistics, Harvard University
