@@ -28,4 +28,4 @@ Department of Biostatistics & Informatics, University of Colorado Anschutz
 
 Postdoctoral Research Fellow: 2010<br>
 Institute for Genomic Mathematics, University of Bonn, Germany  <br>
-Department of Biostatistics, Harvard University
+Department of Biostatistics, Harvard T.H. Chan School of Public Health
