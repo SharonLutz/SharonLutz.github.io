@@ -4,7 +4,7 @@ Department of Population Medicine <br>
 Harvard Medical School and Harvard Pilgrim Health Care 
 
 ### Research Interests  
-Statistical genetics and genomics including like high-dimensional statistics, computational statistics, Bayesian hierarchical models, mediation analysis, and causal inference
+Statistical genetics and genomics including high-dimensional statistics, computational statistics, Bayesian hierarchical models, mediation analysis, and causal inference
 
 ### Education
 PhD in Biostatistics, Harvard University <br>
