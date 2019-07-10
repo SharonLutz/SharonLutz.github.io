@@ -1,5 +1,5 @@
 ### Current Position
-Assistant Professor: <br>
+Assistant Professor <br>
 Department of Population Medicine <br>
 Harvard Medical School and Harvard Pilgrim Health Care 
 
