@@ -1,4 +1,4 @@
-### [About](https://SharonLutz.github.io) | [Background](https://SharonLutz.github.io/background) | [Publications](https://SharonLutz.github.io/publications) | [Software](https://SharonLutz.github.io/software)
+### [About](https://SharonLutz.github.io)  | [Publications](https://SharonLutz.github.io/publications) | [Software](https://SharonLutz.github.io/software)
 
 ### gxeRC
 An R package that examines SNP by environment interactions for both common and rare variants. On [GitHub](https://github.com/SharonLutz/gxeRC)
