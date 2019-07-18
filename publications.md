@@ -1,6 +1,6 @@
 ### [About](https://SharonLutz.github.io) | [Publications](https://SharonLutz.github.io/publications) | [Software](https://SharonLutz.github.io/software)
 
-These publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao), [ResearchGate](https://www.researchgate.net/profile/Sharon_Lutz2), and [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/sharon.lutz.1/bibliography/50152921/public/?sort=date&direction=ascending).
+These publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao) and [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/sharon.lutz.1/bibliography/50152921/public/?sort=date&direction=ascending).
 
 ### Peer Reviewed Publications
 Sordillo JE, McGeachie M, **Lutz SM**, Lasky-Su J, Tantisira K, Tsai CH, Dahlin A, Kelly R, Wu AC, Longitudinal Analysis of Bronchodilator Response in Asthmatics and Effect Modification of Age-related trends by Genotype. Pediatric Pulmonology. 2018. In Press.
