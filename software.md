@@ -1,7 +1,11 @@
 ### [About](https://SharonLutz.github.io)  | [Publications](https://SharonLutz.github.io/publications) | [Software](https://SharonLutz.github.io/software)
 
+### RNAseqRare
+An R package that examines expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/RNAseqRare) and implements the method from the following paper:
+- **Lutz SM**, Thwing A, Fingerlin TE. (2019) eQTL Mapping of Rare Variant Associations Using RNA-seq Data: An Evaluation of Approaches. PLoS ONE. (In Press).
+
 ### ePowerLI
-An R package the performs an empirical power analysis of the interaction of two normally distributed traits in longitudinal unbalanced datasets. On [GitHub](https://github.com/SharonLutz/ePowerLI) 
+An R package that performs an empirical power analysis of the interaction of two normally distributed traits in longitudinal unbalanced datasets. On [GitHub](https://github.com/SharonLutz/ePowerLI) 
 and implements the power analysis used in the following paper: <br>
 - Kelly RS, Sordillo JE, **Lutz SM**, Avila L, Soto-Quiros M, Celedón JC, McGeachie MJ, Dahlin A, Tantisira K, Huang M, Clish CB, Weiss ST,  Lasky-Su J, Wu AC. (2019) Pharmacometabolomics of Bronchodilator Response in Asthma and the Role of Age-Metabolite Interactions. *Metabolomics*. (In Press)
 
