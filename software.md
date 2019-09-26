@@ -3,7 +3,7 @@
 ### ePowerLI
 An R package the performs an empirical power analysis of the interaction of two normally distributed traits in longitudinal unbalanced datasets. On [GitHub](https://github.com/SharonLutz/ ePowerLI) 
 and implements the power analysis used in the following paper: <br>
--Kelly RS, Sordillo JE, **Lutz SM**, Avila L, Soto-Quiros M, Celedón JC, McGeachie MJ, Dahlin A, Tantisira K, Huang M, Clish CB, Weiss ST,  Lasky-Su J, Wu AC. (2019) Pharmacometabolomics of Bronchodilator Response in Asthma and the Role of Age-Metabolite Interactions. *Metabolomics*. (In Press)
+- Kelly RS, Sordillo JE, **Lutz SM**, Avila L, Soto-Quiros M, Celedón JC, McGeachie MJ, Dahlin A, Tantisira K, Huang M, Clish CB, Weiss ST,  Lasky-Su J, Wu AC. (2019) Pharmacometabolomics of Bronchodilator Response in Asthma and the Role of Age-Metabolite Interactions. *Metabolomics*. (In Press)
 
 ### gxeRC
 An R package that examines SNP by environment interactions for both common and rare variants. On [GitHub](https://github.com/SharonLutz/gxeRC)
