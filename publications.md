@@ -9,7 +9,7 @@ An J, Won S, **Lutz SM**, Hecker J, Lange C. (2019) Effect of population stratif
 
 Cardenas A, **Lutz SM**, Everson TM, Perron P, Bouchard L, Hivert MF. (2019) Placental DNA Methylation Mediates the Association of Prenatal Maternal Smoking on Birth Weight. AJE. In Press.
 
-**Lutz** SM, Frederiksen B, Begum F, McDonald ML, Cho MH, Hobbs B, Parker MM, DeMeo DL, Hersh CP,  Eringher M, Young K, Jiang L, Foreman MG, Kinney GL, Make BJ, Lomas DA, Bakke P, Gulsvik A, Crapo JD, Silverman EK, Beaty TH, Hokanson JE, ECLIPSE and COPDGene Investigators. (2019) Common and Rare Variants Genetic Association Analysis of Cigarettes Per Day Among Ever Smokers in COPD Cases and Controls. *NTR*. 21(6):714-722. 
+**Lutz SM**, Frederiksen B, Begum F, McDonald ML, Cho MH, Hobbs B, Parker MM, DeMeo DL, Hersh CP,  Eringher M, Young K, Jiang L, Foreman MG, Kinney GL, Make BJ, Lomas DA, Bakke P, Gulsvik A, Crapo JD, Silverman EK, Beaty TH, Hokanson JE, ECLIPSE and COPDGene Investigators. (2019) Common and Rare Variants Genetic Association Analysis of Cigarettes Per Day Among Ever Smokers in COPD Cases and Controls. *NTR*. 21(6):714-722. 
 
 Parker MM, **Lutz SM**, Hobbs BD, Busch R, McDonald ML, Castaldi PJ, Beaty TH, Silverman EK, Cho MH. (2019) Assessing Pleiotropy and Mediation in Loci Associated with Chronic Obstructive Pulmonary Disease. Gen. Epi. 43(3):318-329. 
 
