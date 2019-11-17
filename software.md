@@ -5,7 +5,7 @@ An R package that examines expression quantitative trait loci (eQTL) analyses of
 - **Lutz SM**, Thwing A, Fingerlin TE. (2019) eQTL Mapping of Rare Variant Associations Using RNA-seq Data: An Evaluation of Approaches. PLoS ONE. (In Press).
 
 ### snpDRAC
-Examines power to detect a genetic association for Dominant, Recessive, Additive, and Co-dominant models as a learning tool for BST 227: Introduction to Statistical Genetics (since 2019). On [GitHub](https://github.com/SharonLutz/snpDRAC) 
+An R package that examines power to detect a genetic association for dominant, recessive, additive, and co-dominant models. This R package was built as a learning tool for BST 227: Introduction to Statistical Genetics (since 2019). On [GitHub](https://github.com/SharonLutz/snpDRAC) 
 
 ### ePowerLI
 An R package that performs an empirical power analysis of the interaction of two normally distributed traits in longitudinal unbalanced datasets. On [GitHub](https://github.com/SharonLutz/ePowerLI) 
