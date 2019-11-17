@@ -4,6 +4,9 @@
 An R package that examines expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/RNAseqRare) and implements the method from the following paper:
 - **Lutz SM**, Thwing A, Fingerlin TE. (2019) eQTL Mapping of Rare Variant Associations Using RNA-seq Data: An Evaluation of Approaches. PLoS ONE. (In Press).
 
+### snpDRAC
+Examines power to detect a genetic association for Dominant, Recessive, Additive, and Co-dominant models as a learning tool for BST 227: Introduction to Statistical Genetics (since 2019). On [GitHub](https://github.com/SharonLutz/snpDRAC) 
+
 ### ePowerLI
 An R package that performs an empirical power analysis of the interaction of two normally distributed traits in longitudinal unbalanced datasets. On [GitHub](https://github.com/SharonLutz/ePowerLI) 
 and implements the power analysis used in the following paper: <br>
