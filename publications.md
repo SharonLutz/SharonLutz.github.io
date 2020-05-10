@@ -3,13 +3,39 @@
 These publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao) and [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/sharon.lutz.1/bibliography/50152921/public/?sort=date&direction=ascending).
 
 ### Peer Reviewed Publications
+McGeachie M, Wang A, **Lutz S**, Sordillo J, Weiss S, Tantisira K, Iribarren C, Lu M, Wu A. (2020) Real-life patterns of exacerbations while on inhaled corticosteroids and long-acting beta agonists for asthma over 15 years.  *Journal of Clinical Medicine*. In Press. 
+
+**Lutz SM**, Sordillo J, Hokanson JE, Wu AC, Lange C. (2020) The Effects of Misspecification of the Mediator and Outcome in Mediation Analysis. *Gen Epi*. In Press.
+
+Dahlin A, Sordillo JE, McGeachie M, Kelly RS, Tantisira KG, **Lutz SM**, Lasky-Su J, Chen A . (2020) Genome-Wide Interaction Study Reveals Age-Dependent Determinants of Responsiveness to Inhaled Corticosteroids in Individuals with Asthma. *PLOS One*.  In Press.
+
+**Lutz SM**, Hokanson JE. (2020) The Use of Mendelian Randomization to Determine the Role of Metabolic Traits on Urinary Albumin to Creatinine Ratio. *ADA*. In Press.
+
+Sordillo JE, **Lutz SM**, Kelly RS, McGeachie MJ, Dahlin A, Tantisira K, Clish C, Lasky-Su J, Wu AC. (2020) Plasmalogens Mediate Age-Related Changes in Bronchodilator Response for Individuals with Asthma. Frontiers in Medicine.  In Press.
+
+Moll M, Regan E, Hokanson J, **Lutz S**, Silverman E, Crapo J, Make B, DeMeo DL. (2020) The Association of Multiparity with Lung Function and Chronic Obstructive Pulmonary Disease (COPD)-related Phenotypes.  Chronic Obstructive Pulmonary Diseases: *Journal of the COPD Foundation (JCOPDF)*.  In Press.  
+
+Sordillo JE, Coull BA, Rifas-Shiman SL, Wu AC, **Lutz SM**, Hivert MF, Oken E, Gold DR. (2020) Characterization of Longitudinal Wheeze Phenotypes from Infancy to Adolescence in Project Viva, a Pre-Birth Cohort Study. *J Allergy Clin Immunol*. In Press.
+
+McGeachie MJ, Sordillo JE, Dahlin A, Wang AL, **Lutz SM**, Tantisira KG, Panganiban R, Lu Q, Sajuthi S, Urbanek C, Kelly R, Saef B, Eng C, Oh SS, Kho AT, Croteau-Chonka DC, Weiss ST, Raby BA, Mak ACY, Rodriguez-Santana JR, Burchard EG, Seibold MA, Wu AC. (2020) Expression of SMARCD1 interacts with age in association with asthma control on inhaled corticosteroid therapy. *Respir. Res*.  21(1). In Press.
+
+Kroehl M, **Lutz SM**, Wagner B. (2020) Permutation Based Methods for Mediation Analysis in Studies with Small Sample Sizes. *PeerJ*. In Press.
+
+An J, Won S, **Lutz SM**, Hecker J, Lange C. (2019) Effect of population stratification on SNP‐by‐environment interaction. *Genetic Epidemiology*.  In Press. 
+
+Young KA, Regan EA, Han MK, **Lutz SM**, Ragland M, Castaldi PJ, Washko GR, Cho MH, Strand M, Curran-Everett D, Beaty TH, Bowler RP, Wan ES, Lynch DA, Make BJ, Silverman EK, Crapo JD, Hokanson JE, Kinney GL, and the COPDGene Investigators. (2019) Subtypes of COPD Have Unique Distributions and Differential Risk of Mortality. *JCOPD.* In Press.
+
+Lowe KE, Regan EA, MD, Anzueto A, Austin E, Austin JHM, Beaty TH, Benos PV, Benway CJ, Bhatt SP, Bleecker ER, Bodduluri S, Bon J, Boriek AM, Boueiz A, Bowler RP, Budoff M, Casaburi R, Castaldi PJ, Charbonnier JP, Cho MH, Comellas A, Conrad D, Costa Davis C, Criner GJ, Curran-Everett D, Curtis JL, DeMeo DL, Diaz AA, Dransfield MT, Dy JG, Fawzy A, Fleming M, Flenaugh EL, Foreman MG, Fortis S, Gebrekristos H, Grant S, Grenier PA, Gu T, Gupta A, Han MK, Hanania NA, Hansel NN, Hayden LP, Hersh CP, MD, Hobbs BD, Hoffman EA, Hogg JC, Hokanson JE, Hoth KF, Hsiao A, Humphries S, Jacobs K, Jacobson FL, Kazerooni EA, Kim V, Kim WJ, Kinney GL, Koegler H, **Lutz SM**, Lynch DA, MacIntye NR, Make BJ, Marchetti N, Martinez FJ, Maselli DJ, Mathews AM, McCormack MC, McDonald MN, McEvoy CE, Moll M, Molye SS, Murray S, Nath H, Newell JD, Occhipinti M, Paoletti M, Parekh T, Pistolesi M, Pratte KA, Putcha N, Ragland M, Reinhardt JM, Rennard SI, Rosiello RA, Ross JC, Rossiter HB, Ruczinski I, San Jose Estepar R, Sciurba FC, Strand MJ, Stringer WW, Tal-Singer R, Thomashow B, Sánchez-Ferrero GV, Walsh JW, Wan ES, Washko GR, Wells JM, Wendt CH, Westney G, Wilson A, Wise RA, Yen A, Young K, Yun J, Silverman EK, Crapo JD. (2019) COPDGene 2019: Redefining the Diagnosis of Chronic Obstructive Pulmonary Disease. *Journal Chronic Obstr Pulm Dis.*  In Press.
+
+Cardenas A, **Lutz SM**, Everson TM, Perron P, Bouchard L, Hivert MF. (2019) Placental DNA Methylation Mediates the Association of Prenatal Maternal Smoking on Birth Weight. *Am J Epidemiol*. 2019. 188(11):1878-1886. 
+
+Cardenas A, **Lutz SM**, Everson TM, Hivert MF. (2019) Reply to "DNA Methylation and Prenatal Exposures". *AJE*.  In Press.
+
 **Lutz SM**, Thwing A, Fingerlin TE. (2019) eQTL Mapping of Rare Variant Associations Using RNA-seq Data: An Evaluation of Approaches. *PLoS One*. In Press.
 
-Kelly RS, Sordillo JE, **Lutz SM**, Avila L, Soto-Quiros M, Celedón JC, McGeachie MJ, Dahlin A, Tantisira K, Huang M, Clish CB, Weiss ST, Lasky-Su J, Wu AC. (2019) Pharmacometabolomics of Bronchodilator Response in Asthma and the Role of Age-Metabolite Interactions. *Metabolites*. In Press.
+Kelly RS, Sordillo JE, **Lutz SM**, Avila L, Soto-Quiros M, Celedón JC, McGeachie MJ, Dahlin A, Tantisira K, Huang M, Clish CB, Weiss ST, Lasky-Su J, Wu AC. (2019) Pharmacometabolomics of Bronchodilator Response in Asthma and the Role of Age-Metabolite Interactions. *Metabolites*. 9(9).
 
 An J, Won S, **Lutz SM**, Hecker J, Lange C. (2019) Effect of population stratification on SNP‐by‐environment interaction. *Genetic Epidemiology*. In Press.
-
-Cardenas A, **Lutz SM**, Everson TM, Perron P, Bouchard L, Hivert MF. (2019) Placental DNA Methylation Mediates the Association of Prenatal Maternal Smoking on Birth Weight. *AJE*. In Press.
 
 Chen J, Loukola A, Gillepie N, Peterson R, Jia P, Riley B, Maes H, Dick D, Kendler KS, Damaj I, Miles M, Zhao Z, Li MD, Vink JM, Minica CC, Willemsen G, Boomsma DI, Qaiser B, Madden PAF, Korhonen T, Gelernter J, Kranzler H, Sherva R, Farrer L, Maher B, Vanyukov M, Taylor M, Ware J, Timpson N, Munafo M, **Lutz SM**, Hokanson JE, Thorgeirsson TE, Reginsson GW, Stefansson K, Gu F, Landi MT, Caporaso NE, Hancock DB, Gaddis NC, Baker TB, Bierut LJ, Johnson EO, Chenoweth M, Tyndale R, Kaprio J, Chen X. (2019) Genome-Wide Meta-Analysis of FTND and TTFC Phenotypes. *NTR*. In Press.
 
