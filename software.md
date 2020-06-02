@@ -1,5 +1,9 @@
 ### [About](https://SharonLutz.github.io)  | [Publications](https://SharonLutz.github.io/publications) | [Software](https://SharonLutz.github.io/software)
 
+### reverseMA
+An R package that examines mediation analysis in the presence of reverse causality. On [GitHub] (https://github.com/SharonLutz/reverseC) and implements the method from the following paper: 
+**Lutz SM**, Sordillo J, Hokanson JE, Wu AC, Lange C. (2020) The Effects of Misspecification of the Mediator and Outcome in Mediation Analysis. Gen Epi. (In Press).
+
 ### RNAseqRare
 An R package that examines expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/RNAseqRare) and implements the method from the following paper:
 - **Lutz SM**, Thwing A, Fingerlin TE. (2019) eQTL Mapping of Rare Variant Associations Using RNA-seq Data: An Evaluation of Approaches. PLoS ONE. (In Press).
