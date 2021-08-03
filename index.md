@@ -10,23 +10,27 @@ Statistical genetics and genomics including high-dimensional statistics, computa
 Publications can be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao).
 
 ## Software
+### reverseDirection	
+An R package that examines the ability to use MR to infer the effect direction. On [GitHub](https://github.com/SharonLutz/reverseC) and implements the method from the following paper: 
+- **Lutz SM**, Wu AC, Hokanson JE, Vansteelandt S, Lange C. (2021) Caution Against Examining the Role of Reverse Causality in Mendelian Randomization. *Gen Epi*.
+
 ### reverseMA
 An R package that examines mediation analysis in the presence of reverse causality. On [GitHub](https://github.com/SharonLutz/reverseMA) and implements the method from the following paper: 
-- **Lutz SM**, Sordillo J, Hokanson JE, Wu AC, Lange C. (2020) The Effects of Misspecification of the Mediator and Outcome in Mediation Analysis. Gen Epi. (In Press).
+- **Lutz SM**, Sordillo J, Hokanson JE, Wu AC, Lange C. (2020) The Effects of Misspecification of the Mediator and Outcome in Mediation Analysis. *Gen Epi*. 
 
 ### RNAseqRare
 An R package that examines expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/RNAseqRare) and implements the method from the following paper:
-- **Lutz SM**, Thwing A, Fingerlin TE. (2019) eQTL Mapping of Rare Variant Associations Using RNA-seq Data: An Evaluation of Approaches. PLoS ONE. (In Press).
+- **Lutz SM**, Thwing A, Fingerlin TE. (2019) eQTL Mapping of Rare Variant Associations Using RNA-seq Data: An Evaluation of Approaches. *PLoS ONE*. 
 
 ### ePowerLI
 An R package that performs an empirical power analysis of the interaction of two normally distributed traits in longitudinal unbalanced datasets. On [GitHub](https://github.com/SharonLutz/ePowerLI) 
 and implements the power analysis used in the following paper: <br>
-- Kelly RS, Sordillo JE, **Lutz SM**, Avila L, Soto-Quiros M, Celedón JC, McGeachie MJ, Dahlin A, Tantisira K, Huang M, Clish CB, Weiss ST,  Lasky-Su J, Wu AC. (2019) Pharmacometabolomics of Bronchodilator Response in Asthma and the Role of Age-Metabolite Interactions. *Metabolomics*. (In Press)
+- Kelly RS, Sordillo JE, **Lutz SM**, Avila L, Soto-Quiros M, Celedón JC, McGeachie MJ, Dahlin A, Tantisira K, Huang M, Clish CB, Weiss ST,  Lasky-Su J, Wu AC. (2019) Pharmacometabolomics of Bronchodilator Response in Asthma and the Role of Age-Metabolite Interactions. *Metabolomics*. 
 
 ### gxeRC
 An R package that examines SNP by environment interactions for both common and rare variants. On [GitHub](https://github.com/SharonLutz/gxeRC)
  and implements the power analysis used in the following paper: <br>
-- **Lutz SM**, Frederiksen B, Begum F, Cho MH, Hobbs B, McDonald ML, Parker MM, DeMeo DL, Jiang L, Eringher M, Young K, Foreman MG, Kinney GL, Make BJ, Lomas DA, Bakke P, Gulsvik A, Crapo JD, Silverman EK, Beaty TH, Hokanson JE. (2018) Common and Rare Variants Genetic Association Analysis of Cigarettes Per Day Among Ever Smokers in COPD Cases and Controls. *NTR*. (In Press)
+- **Lutz SM**, Frederiksen B, Begum F, Cho MH, Hobbs B, McDonald ML, Parker MM, DeMeo DL, Jiang L, Eringher M, Young K, Foreman MG, Kinney GL, Make BJ, Lomas DA, Bakke P, Gulsvik A, Crapo JD, Silverman EK, Beaty TH, Hokanson JE. (2018) Common and Rare Variants Genetic Association Analysis of Cigarettes Per Day Among Ever Smokers in COPD Cases and Controls. *NTR*. 
 
 ### Umediation
 An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/Umediation)
