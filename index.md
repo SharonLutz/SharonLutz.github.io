@@ -11,7 +11,7 @@ Publications can be found on [Google Scholar](https://scholar.google.com/citatio
 
 ## Software
 ### reverseDirection	
-An R package that examines the ability to use MR to infer the effect direction. On [GitHub](https://github.com/SharonLutz/reverseC) and implements the method from the following paper: 
+An R package that examines the ability to use MR to infer the effect direction. On [GitHub](https://github.com/SharonLutz/reverseDirection) and implements the method from the following paper: 
 - **Lutz SM**, Wu AC, Hokanson JE, Vansteelandt S, Lange C. (2021) Caution Against Examining the Role of Reverse Causality in Mendelian Randomization. *Gen Epi*.
 
 ### reverseMA
