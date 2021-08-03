@@ -1,5 +1,3 @@
-### [About](https://SharonLutz.github.io) 
-
 ## Current Appointment
 Assistant Professor <br>
 Department of Population Medicine <br>
