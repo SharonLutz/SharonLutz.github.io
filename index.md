@@ -1,5 +1,5 @@
 ## Current Appointment
-Assistant Professor <br>
+Associate Professor <br>
 Department of Population Medicine <br>
 Harvard Medical School and Harvard Pilgrim Health Care 
 
@@ -66,5 +66,5 @@ and implements the method from the following paper: <br>
 - **Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. *Open Journal of Genetics*. 3(3). 
 
 ### snpDRAC
-An R package that examines power to detect a genetic association for dominant, recessive, additive, and co-dominant models. This R package was built as a learning tool for BST 227: Introduction to Statistical Genetics on [GitHub](https://github.com/SharonLutz/snpDRAC). 
+An R package that examines emperical power to detect a genetic association for dominant, recessive, additive, and co-dominant models. This R package was built as a learning tool for BST 227: Introduction to Statistical Genetics on [GitHub](https://github.com/SharonLutz/snpDRAC). 
 
