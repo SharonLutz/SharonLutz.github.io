@@ -1,10 +1,10 @@
 ## Current Appointment
 Associate Professor <br>
 Department of Population Medicine <br>
-Harvard Medical School and Harvard Pilgrim Health Care 
+Harvard Medical School and Harvard Pilgrim Health Care Institute
 
 ## Research Interests  
-Statistical genetics and genomics including high-dimensional statistics, computational statistics, and mediation analysis
+Statistical genetics and genomics including high-dimensional statistics, computational statistics, causal inference, Mendelian randomization, and mediation analysis
 
 ## Publications 
 Publications can be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao).
