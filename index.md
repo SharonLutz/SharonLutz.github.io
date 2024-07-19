@@ -9,33 +9,10 @@ Statistical genetics and genomics including high-dimensional statistics, computa
 ## Publications 
 Publications can be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao).
 
-## Software
+## Selected Software
 ### reverseDirection	
 An R package that examines the ability to use MR to infer the effect direction. On [GitHub](https://github.com/SharonLutz/reverseDirection) and implements the method from the following paper: 
 - **Lutz SM**, Wu AC, Hokanson JE, Vansteelandt S, Lange C. (2021) Caution Against Examining the Role of Reverse Causality in Mendelian Randomization. *Gen Epi*.
-
-### reverseMA
-An R package that examines mediation analysis in the presence of reverse causality. On [GitHub](https://github.com/SharonLutz/reverseMA) and implements the method from the following paper: 
-- **Lutz SM**, Sordillo J, Hokanson JE, Wu AC, Lange C. (2020) The Effects of Misspecification of the Mediator and Outcome in Mediation Analysis. *Gen Epi*. 
-
-### RNAseqRare
-An R package that examines expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/RNAseqRare) and implements the method from the following paper:
-- **Lutz SM**, Thwing A, Fingerlin TE. (2019) eQTL Mapping of Rare Variant Associations Using RNA-seq Data: An Evaluation of Approaches. *PLoS ONE*. 
-
-### ePowerLI
-An R package that performs an empirical power analysis of the interaction of two normally distributed traits in longitudinal unbalanced datasets. On [GitHub](https://github.com/SharonLutz/ePowerLI) 
-and implements the power analysis used in the following paper: <br>
-- Kelly RS, Sordillo JE, **Lutz SM**, Avila L, Soto-Quiros M, Celedón JC, McGeachie MJ, Dahlin A, Tantisira K, Huang M, Clish CB, Weiss ST,  Lasky-Su J, Wu AC. (2019) Pharmacometabolomics of Bronchodilator Response in Asthma and the Role of Age-Metabolite Interactions. *Metabolomics*. 
-
-### gxeRC
-An R package that examines SNP by environment interactions for both common and rare variants. On [GitHub](https://github.com/SharonLutz/gxeRC)
- and implements the power analysis used in the following paper: <br>
-- **Lutz SM**, Frederiksen B, Begum F, Cho MH, Hobbs B, McDonald ML, Parker MM, DeMeo DL, Jiang L, Eringher M, Young K, Foreman MG, Kinney GL, Make BJ, Lomas DA, Bakke P, Gulsvik A, Crapo JD, Silverman EK, Beaty TH, Hokanson JE. (2018) Common and Rare Variants Genetic Association Analysis of Cigarettes Per Day Among Ever Smokers in COPD Cases and Controls. *NTR*. 
-
-### Umediation
-An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/Umediation)
- and implements the method from the following paper: <br>
-- **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* 18(1):344.
 
 ### pleiotropy 
 An R package that tests for common and rare variant associations with multiple phenotypes using the Hausdorff metric in a permutation based framework. On [GitHub](https://github.com/SharonLutz/pleiotropy) 
@@ -46,6 +23,20 @@ and implements the method from the following paper:<br>
 An R package that adjusts for ascertainment bias when testing for genetic associations of secondary phenotypes in population based studies.  On [GitHub](https://github.com/SharonLutz/SecondaryPhenotype)
 and implements the method from the following paper: <br>
 - **Lutz SM**, Hokanson JE, Lange C. (2014) An Alternative Hypothesis Testing Strategy for Secondary Phenotype Data in Case-Control Genetic Association Studies. *Frontiers in Genetics*. 5 (188). 
+  
+### reverseMA
+An R package that examines mediation analysis in the presence of reverse causality. On [GitHub](https://github.com/SharonLutz/reverseMA) and implements the method from the following paper: 
+- **Lutz SM**, Sordillo J, Hokanson JE, Wu AC, Lange C. (2020) The Effects of Misspecification of the Mediator and Outcome in Mediation Analysis. *Gen Epi*. 
+
+### RNAseqRare
+An R package that examines expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/RNAseqRare) and implements the method from the following paper:
+- **Lutz SM**, Thwing A, Fingerlin TE. (2019) eQTL Mapping of Rare Variant Associations Using RNA-seq Data: An Evaluation of Approaches. *PLoS ONE*. 
+
+### Umediation
+An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/Umediation)
+ and implements the method from the following paper: <br>
+- **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* 18(1):344.
+
 
 ### NPBAT
 An interactive software package for the analysis of population based genetic association studies. On [Google Sites](https://sites.google.com/site/genenpbat/home/npbat) and implements the method from the following paper: <br>
@@ -59,12 +50,4 @@ and implements the methods from the following papers: <br>
 
 - Vansteelandt S, Goetgeluk S, **Lutz S**, Waldamn I, Lyon H, Schadt EE, Weiss ST, Lange C. (2009) On the Adjustment for Covariates in Genetic Association Analysis: A Novel, Simple Principle to Infer Direct Effects. *Genetic Epidemiology*. 33(5): 394-405.
 
-### bayesIndirect
-An R package that examines the indirect effect of a SNP on the outcome through the mediator in a Bayesian framework with a spike and slab prior. On 
-[GitHub](https://github.com/SharonLutz/bayesIndirect)
-and implements the method from the following paper: <br>
-- **Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. *Open Journal of Genetics*. 3(3). 
-
-### snpDRAC
-An R package that examines emperical power to detect a genetic association for dominant, recessive, additive, and co-dominant models. This R package was built as a learning tool for BST 227: Introduction to Statistical Genetics on [GitHub](https://github.com/SharonLutz/snpDRAC). 
 
