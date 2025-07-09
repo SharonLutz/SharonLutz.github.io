@@ -1,7 +1,7 @@
 ## Current Appointment
 Associate Professor <br>
 Department of Population Medicine <br>
-Harvard Medical School and Harvard Pilgrim Health Care Institute
+Harvard Pilgrim Health Care Institute
 
 ## Research Interests  
 Statistical genetics and genomics including high-dimensional statistics, computational statistics, causal inference, Mendelian randomization, and mediation analysis
@@ -10,10 +10,6 @@ Statistical genetics and genomics including high-dimensional statistics, computa
 Publications can be found on [Google Scholar](https://scholar.google.com/citations?user=B0NyeIoAAAAJ&hl=en&oi=ao).
 
 ## Selected Software
-### reverseDirection	
-An R package that examines the ability to use MR to infer the effect direction. On [GitHub](https://github.com/SharonLutz/reverseDirection) and implements the method from the following paper: 
-- **Lutz SM**, Wu AC, Hokanson JE, Vansteelandt S, Lange C. (2021) Caution Against Examining the Role of Reverse Causality in Mendelian Randomization. *Gen Epi*.
-
 ### pleiotropy 
 An R package that tests for common and rare variant associations with multiple phenotypes using the Hausdorff metric in a permutation based framework. On [GitHub](https://github.com/SharonLutz/pleiotropy) 
 and implements the method from the following paper:<br>
@@ -25,17 +21,12 @@ and implements the method from the following paper: <br>
 - **Lutz SM**, Hokanson JE, Lange C. (2014) An Alternative Hypothesis Testing Strategy for Secondary Phenotype Data in Case-Control Genetic Association Studies. *Frontiers in Genetics*. 5 (188). 
   
 ### reverseMA
-An R package that examines mediation analysis in the presence of reverse causality. On [GitHub](https://github.com/SharonLutz/reverseMA) and implements the method from the following paper: 
+An R package that examines mediation analysis in the presence of reverse causality. On [GitHub](https://github.com/SharonLutz/reverseMA): 
 - **Lutz SM**, Sordillo J, Hokanson JE, Wu AC, Lange C. (2020) The Effects of Misspecification of the Mediator and Outcome in Mediation Analysis. *Gen Epi*. 
 
 ### RNAseqRare
-An R package that examines expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/RNAseqRare) and implements the method from the following paper:
+An R package that examines expression quantitative trait loci (eQTL) analyses of rare variants for RNA-seq data. On [GitHub](https://github.com/SharonLutz/RNAseqRare):
 - **Lutz SM**, Thwing A, Fingerlin TE. (2019) eQTL Mapping of Rare Variant Associations Using RNA-seq Data: An Evaluation of Approaches. *PLoS ONE*. 
-
-### Umediation
-An R package that examines the role of unmeasured confounding of the exposure-mediator-outcome relationship in mediation analysis. On [GitHub](https://github.com/SharonLutz/Umediation)
- and implements the method from the following paper: <br>
-- **Lutz SM**, Thwing A, Schmiege S, Kroehl M, Baker C, Starling A, Hokanon JE, Ghosh D. (2017) Examining the Role of Unmeasured Confounding in Mediation Analysis with Genetic and Genomic Applications. *BMC Bioinformatics.* 18(1):344.
 
 
 ### NPBAT
